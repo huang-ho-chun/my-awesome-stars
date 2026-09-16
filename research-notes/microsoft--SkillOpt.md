@@ -1,21 +1,28 @@
-# SkillOpt｜研究說明
+# SkillOpt｜GitHub 專案導覽
 
-> 依先前對話重整的研究筆記，非逐字稿。專案功能可能隨版本改變。
+> 依 [專案 README](https://github.com/microsoft/SkillOpt) 與相關文件於 2026-09-16 重寫；著重用途與使用判斷，不深入原始碼。
 
-**專案**：[microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)
+## 1. 這是什麼？
 
-## 你當時問的重點
+SkillOpt 是改善 AI Agent Skill 的工具與研究框架。它把寫給 Agent 的 Skill 文件當成可優化的對象：讓 Agent 執行一組任務，根據結果提出文字修改，再以保留的驗證任務決定要不要採用。它不是訓練新的語言模型，也不是一般聊天工具；適合已經在維護 Skills、而且能判斷修改是否帶來改善的人。專案另有 **SkillOpt-Sleep**，從日常 Agent 工作紀錄找重複問題，產生待審核的改善提案。
 
-你提供 `microsoft/SkillOpt`，想知道它是什麼，以及對你使用 Codex、撰寫與改進 Skills 有沒有實際價值。
+## 2. 對我有什麼用？
 
-## 先前說明
+你已經使用 Codex、調整 Skills 與 `AGENTS.md`。若某個 Skill 經常在同類任務失敗，你可以用它建立「做任務 → 找失敗 → 修改指引 → 驗證」的循環。例如讓一個報告產生 Skill 處理幾份不同輸入，觀察是否漏步驟，再比較修訂前後的結果。對你來說，先研究 SkillOpt-Sleep 從既有工作紀錄提取問題，比直接架完整訓練實驗更貼近日常。
 
-SkillOpt 優化的是給既有 LLM Agent 使用的自然語言 Skill，不是修改模型權重。它讓 Agent 跑任務，收集成功與失敗案例，提出 Skill 文字修改，再用驗證任務比較效果；有效才保留。研究時也談到 SkillOpt-Sleep：從日常 Agent 工作紀錄擷取重複問題，作為改善 Skill 的線索。
+## 3. 使用情境
 
-## 對你的用處與用法
+- **日常使用者**：回顧 Codex session，找出反覆需要你糾正的地方，整理成 Skill 改進候選。
+- **Skill 維護者**：準備一組代表性任務和評分標準，測試某段指引是否真的提升品質。
+- **研究者**：比較不同 Agent、任務與驗證策略；這一層需要較多實驗準備，暫時不必先做。
 
-你已在調整 Codex Skills、`AGENTS.md` 和工作規範。可先挑一個常用、且有明確失敗案例的 Skill，記錄目前結果，再研究 SkillOpt-Sleep 如何從既有 session 找問題；確定能衡量改善後，再試完整優化流程。
+## 4. 我要怎麼用？
 
-## 使用前要核對
+1. 先挑一個你常用且有明確失敗案例的 Skill，保存原版與幾個測試任務。
+2. 依 [SkillOpt-Sleep 文件](https://github.com/microsoft/SkillOpt/blob/main/docs/sleep/README.md)了解紀錄擷取、回放、驗證和人工採用的流程；README 指向 `skillopt-sleep` CLI，基本套件可用 Python 套件方式安裝。
+3. 先在副本或小範圍任務試跑，檢查它提出了什麼修改、驗證有沒有涵蓋你重視的失敗。
+4. 只有你核對結果後才把新 Skill 用到日常工作。完整 SkillOpt 訓練流程可等你有穩定評分方式再研究。
 
-先界定成功標準與驗證任務，避免只因文字看起來更好就接受修改。
+## 5. 值不值得研究？
+
+**很適合你研究，但先小規模試用 SkillOpt-Sleep。** 它與你持續改進 Codex 工作方式的需求吻合；完整優化框架需要任務集與驗證標準，成本比一般安裝 Skill 高。

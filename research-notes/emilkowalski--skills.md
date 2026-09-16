@@ -1,21 +1,28 @@
-# emilkowalski/skills｜研究說明
+# emilkowalski/skills｜GitHub 專案導覽
 
-> 依先前對話重整的研究筆記，非逐字稿。專案功能可能隨版本改變。
+> 依 [專案 README](https://github.com/emilkowalski/skills) 與相關文件於 2026-09-16 重寫；著重用途與使用判斷，不深入原始碼。
 
-**專案**：[emilkowalski/skills](https://github.com/emilkowalski/skills)
+## 1. 這是什麼？
 
-## 你當時問的重點
+這是一組給設計師與工程師使用的 Agent Skills，將介面設計、動畫節奏、互動回饋和元件選擇的經驗提供給 Coding Agent。它不是新的 UI framework，也不會代替你決定產品需求；用途是讓已經能寫出介面的 Agent，在細節上做出更合理的選擇。
 
-你想知道這套 Skills 能否幫 Codex 做出更好的 UI，而不需自己先精通動畫設計。
+## 2. 對我有什麼用？
 
-## 先前說明
+如果你請 Codex 做自己的小工具或資料瀏覽頁面，這套 Skills 可以幫它避免常見的設計粗糙問題。例如做 IG 收藏整理介面時，先用 `prototype` 比較不同布局，再讓 Agent 檢查動畫是否干擾操作、元件是否已存在成熟選擇。你不用先研究 CSS 動畫公式，也能比較具體地指示 Agent 改善。
 
-這是一組設計與工程 Skills，將介面細節、互動回饋、動畫判斷、元件選擇和原型比較等經驗交給 Coding Agent。先前回答提到 `emil-design-eng`、`prototype`、`pick-ui-library`、`improve-animations` 等用途。
+## 3. 使用情境
 
-## 對你的用處與用法
+- **新介面**：用設計 Skill 指導頁面層次、互動狀態和視覺細節。
+- **原型比較**：讓 Agent 做幾種版面，從實際畫面選擇方向。
+- **既有介面檢查**：用動畫或 UI 相關 Skill 找出太慢、太多或不一致的動態效果。
 
-當你請 Codex 做 IG 收藏瀏覽器或其他生活小工具，可先用 `prototype` 比較不同版面，再以設計 Skill 檢查互動細節；功能需求仍由你決定。
+## 4. 我要怎麼用？
 
-## 使用前要核對
+1. 依 README 的 [Install](https://github.com/emilkowalski/skills#install) 將 Skills 加到你使用的 Agent。
+2. 先給 Codex 一個小而完整的任務，例如做一頁可瀏覽收藏項目的介面，說明你重視的操作與資訊。
+3. 請 Agent 使用適合的 Skill 產出原型或檢查現有介面；實際開啟並操作，再回饋哪裡不清楚或不順手。
+4. 功能與資訊正確後，再調整動畫和視覺細節。
 
-先確定介面資訊和操作流程是否符合你的需要，再調整動畫與視覺細節。
+## 5. 值不值得研究？
+
+**有做 UI 時很適合，平常可先收藏。** 若你主要做命令列、腳本與文件，它的價值不如前端專案直接；開始做可互動工具時就值得使用。
