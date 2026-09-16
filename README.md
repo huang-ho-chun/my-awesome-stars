@@ -28,6 +28,7 @@
 - **[SkillOpt](https://github.com/microsoft/SkillOpt)** - Text-space optimizer that trains reusable natural-language skills for frozen LLM agents. (⭐ 17,154)
   - **研究摘要**：這是改善 AI Agent Skill 的文字優化工具，從任務成敗找出修改方向，再用驗證任務檢查是否真的變好。
   - **適合你／怎麼用**：適合用來改進你反覆使用的 Codex Skills 與工作規範；可先看從歷史工作紀錄學習的 SkillOpt-Sleep，再決定是否導入完整訓練流程。
+  - [詳細說明](research-notes/microsoft--SkillOpt.md)
 - **[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience. (⭐ 37,318)
 - **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** - The open-source Hermes Agent. (⭐ 246,062)
 - **[Hermes Desktop](https://github.com/fathah/hermes-desktop)** - Desktop version of Hermes Agent. (⭐ 14,231)
@@ -37,11 +38,13 @@
 - **[i-have-adhd](https://github.com/ayghri/i-have-adhd)** - Skill to stop your coding agent from burying the answer. ADHD-friendly output. (⭐ 46,685)
   - **研究摘要**：這是調整 Coding Agent 回答方式的 Skill：先給下一步、清楚編號並保留目前進度，避免重點埋在長篇說明中。
   - **適合你／怎麼用**：適合你與 Codex 多輪除錯時使用；可依自己的偏好改寫規則，讓每輪都交代已確認事項與下一個動作。
+  - [詳細說明](research-notes/ayghri--i-have-adhd.md)
 - **[GitNexus](https://github.com/abhigyanpatwari/GitNexus)** - The Zero-Server Code Intelligence Engine. (⭐ 47,380)
 - **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** - Give your AI agent eyes to see the entire internet. (⭐ 82,337)
 - **[codegraph](https://github.com/colbymchenry/codegraph)** - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity. (⭐ 71,127)
   - **研究摘要**：這是替程式庫建立符號、呼叫與相依關係索引的工具，讓 Coding Agent 能查詢程式碼關係及修改影響範圍。
   - **適合你／怎麼用**：適合你處理跨多個檔案的報告流程或測試工具時，先索引專案，再請 Agent 查函式呼叫路徑與相關模組。
+  - [詳細說明](research-notes/colbymchenry--codegraph.md)
 - **[context-hub](https://github.com/andrewyng/context-hub)** - Context management for AI agents. (⭐ 13,981)
 
 ### 多模態
@@ -51,6 +54,7 @@
 - **[book-to-skill](https://github.com/virgiliojr94/book-to-skill)** - Turn any technical book PDF into a Claude Code skill. (⭐ 30,879)
   - **研究摘要**：這是把技術書或文件整理成可重複使用的 Agent Skill 的工具，將核心指引與詳細章節分開供 Agent 按需讀取。
   - **適合你／怎麼用**：適合把常查的 Linux、效能或軟體架構資料變成 Codex 的參考 Skill；先確認產出的索引與內容，再用實際問題測試。
+  - [詳細說明](research-notes/virgiliojr94--book-to-skill.md)
 - **[VoxCPM](https://github.com/OpenBMB/VoxCPM)** - Voice-based language model. (⭐ 37,639)
 - **[VibeVoice](https://github.com/microsoft/VibeVoice)** - Open-Source Frontier Voice AI. (⭐ 54,336)
 
@@ -60,15 +64,18 @@
 - **[effective-html](https://github.com/plannotator/effective-html)** - Agent skills for useful HTML artifacts, wireframes, interactive prototypes. (⭐ 3,190)
   - **研究摘要**：這是一組教 Coding Agent 製作 HTML 資訊成品的 Skills，涵蓋圖解、線框圖、可操作原型與視覺化計畫。
   - **適合你／怎麼用**：適合把你的測試流程、報告架構或方案比較做成可開啟的頁面；需要看流程時可從 `html-diagram` 開始。
+  - [詳細說明](research-notes/plannotator--effective-html.md)
 - **[flint-chart](https://github.com/microsoft/flint-chart)** - Visualization language for AI agents to create expressive charts. (⭐ 4,215)
   - **研究摘要**：這是供 AI Agent 使用的圖表描述與生成層，讓 Agent 指定資料意義和圖表需求，再處理座標軸、標籤與版面等細節。
   - **適合你／怎麼用**：適合把測試數據接到自動報告流程，產生可閱讀的效能比較圖；先用一份 CSV 試作並核對圖表與原始數值。
+  - [詳細說明](research-notes/microsoft--flint-chart.md)
 - **[cangjie-skill](https://github.com/kangarooking/cangjie-skill)** - Distill high-value content into executable Agent Skills. (⭐ 10,145)
 - **[dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill)** - AI-agent skill for browser-editable presentations. (⭐ 8,302)
 - **[holo-card-studio](https://github.com/EverettFish/holo-card-studio)** - Turn descriptions into Blender card and interactive Three.js page. (⭐ 1,558)
 - **[skills](https://github.com/emilkowalski/skills)** - Skills for Designers and Engineers. (⭐ 38,203)
   - **研究摘要**：這是一組給 Coding Agent 的介面與動畫設計 Skills，提供互動細節、動畫檢查、元件選擇和原型設計指引。
   - **適合你／怎麼用**：適合你請 Codex 製作小工具介面時使用；可先用 `prototype` 比較版本，再用設計或動畫 Skill 檢查細節。
+  - [詳細說明](research-notes/emilkowalski--skills.md)
 - **[mattpocock/skills](https://github.com/mattpocock/skills)** - Popular AI coding skills collection. (⭐ 263,348)
 - **[andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** - Andrej Karpathy inspired AI skills. (⭐ 213,337)
 - **[last30days-skill](https://github.com/mvanhorn/last30days-skill)** - Skill for recent work tracking. (⭐ 62,129)
@@ -77,6 +84,7 @@
 - **[sepia](https://github.com/Nanako0129/sepia)** - De-AI writing skill for agents. (⭐ 2,639)
   - **研究摘要**：這是給 AI Agent 的寫作 Skill，處理制式、冗長的 AI 文風，也提供專業文件與技術文章的寫作規則。
   - **適合你／怎麼用**：適合整理你的技術文件、Issue／PR 回覆與除錯紀錄；可先針對一篇草稿使用 Professional Writing 規則並人工核對事實。
+  - [詳細說明](research-notes/Nanako0129--sepia.md)
 - **[craft-skills](https://github.com/ZSeven-W/craft-skills)** - Research-backed, eval-driven skills for AI agents. (⭐ 154)
 - **[SkillSpector](https://github.com/NVIDIA/SkillSpector)** - NVIDIA's skill evaluation tool. (⭐ 17,398)
 - **[codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith)** - Versioned Codex instruction deployment. (⭐ 4,501)
@@ -139,6 +147,7 @@
 - **[ppt-master](https://github.com/hugohe3/ppt-master)** - AI turns documents into real, native PowerPoint decks. (⭐ 54,772)
   - **研究摘要**：這是讓 AI Agent 從文件、資料或主題規劃並產出可編輯 PowerPoint 的製作流程，目標是保留文字、形狀和圖表等原生物件。
   - **適合你／怎麼用**：適合把測試結果或技術報告整理成給主管看的簡報；先提供資料、聽眾與頁數，再於 PowerPoint 檢查內容和可編輯性。
+  - [詳細說明](research-notes/hugohe3--ppt-master.md)
 - **[awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** - GPT Image 提示詞與案例庫。(⭐ 32,221)
 
 ### 視覺內容
@@ -146,6 +155,7 @@
 - **[ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** - 中文小黑怪誕正文配圖生成 Skill。(⭐ 11,722)
   - **研究摘要**：這是把文章轉成小黑風格插圖的 Agent Skill，包含選圖流程、風格規格、構圖範例與品質檢查。
   - **適合你／怎麼用**：對你更有價值的是它的 Skill 結構：可參考其按需讀取的知識檔與檢查步驟，設計自己的技術筆記插圖流程。
+  - [詳細說明](research-notes/helloianneo--ian-xiaohei-illustrations.md)
 - **[ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** - A compact Agent Skill for IP mascot logos. (⭐ 5,288)
 - **[srt-whiteboard-animation](https://github.com/geeklee/srt-whiteboard-animation)** - SRT 字幕流式笔迹白板手繪動畫 skill。(⭐ 3,334)
 - **[chinese-traditional-patterns](https://github.com/dososo/chinese-traditional-patterns)** - Chinese traditional patterns collection. (⭐ 299)
@@ -167,6 +177,7 @@
 - **[obsidian-llm-wiki](https://github.com/GD4AI/obsidian-llm-wiki)** - Karpathy's LLM Wiki implementation plugin for Obsidian. (⭐ 626)
   - **研究摘要**：這是把 Karpathy LLM Wiki 工作方式帶進 Obsidian 的外掛，協助以 AI 整理和連結個人知識。
   - **適合你／怎麼用**：適合你現有的 Obsidian 筆記庫；可先在副本試用文件匯入、知識整理與引用回溯，再決定是否納入主要筆記流程。
+  - [詳細說明](research-notes/GD4AI--obsidian-llm-wiki.md)
 - **[Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)** - Turn any code into interactive knowledge graph. (⭐ 83,035)
 - **[knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog)** - Knowledge management catalog. (⭐ 9,214)
 
@@ -178,6 +189,7 @@
 - **[liteparse](https://github.com/run-llama/liteparse)** - Lightweight document parsing for LLMs. (⭐ 12,316)
   - **研究摘要**：這是可在本機執行的輕量文件解析工具，將 PDF 等文件轉成文字、Markdown 或結構化資料，供 LLM、RAG 或程式使用。
   - **適合你／怎麼用**：適合放在你文件整理與報告流程的前處理階段；先用代表性的 PDF 檢查段落、表格與來源位置是否保留。
+  - [詳細說明](research-notes/run-llama--liteparse.md)
 - **[opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)** - PDF data loading tool. (⭐ 29,286)
 - **[KillerPDF](https://github.com/SteveTheKiller/KillerPDF)** - Free and open-source PDF editor. (⭐ 3,864)
 - **[ky-markdown-rebuilder](https://github.com/KyrieCheungYep/ky-markdown-rebuilder)** - Rebuild visually complex documents into Markdown. (⭐ 118)
