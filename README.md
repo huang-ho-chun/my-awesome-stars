@@ -149,6 +149,8 @@
   - [詳細說明](research-notes/WenyuChiou--awesome-agentic-ai-zh.md)
 - **[agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns)** - 介紹 21 種 Agent 設計模式的中文翻譯讀物。 (⭐ 8,020)
   - [詳細說明](research-notes/xindoo--agentic-design-patterns.md)
+- **[Agentic-Design-Patterns](https://github.com/evoiz/Agentic-Design-Patterns)** - 以書籍 PDF 與 Notebook 練習 AI Agent 設計模式。 (⭐ 3,604)
+  - [詳細說明](research-notes/evoiz--Agentic-Design-Patterns.md)
 - **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** - 逐課拆解 Coding Agent 的工具、權限、記憶與工作流程。 (⭐ 76,948)
   - [詳細說明](research-notes/shareAI-lab--learn-claude-code.md)
 - **[ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** - 從機器學習到 LLM、Agent 與部署的分階段自學課程。 (⭐ 54,774)
@@ -275,6 +277,8 @@
 ### 代碼理解
 - **[codeflow](https://github.com/braedonsaunders/codeflow)** - 貼上 GitHub 網址即可查看程式依賴與影響範圍的架構圖。 (⭐ 5,207)
   - [詳細說明](research-notes/braedonsaunders--codeflow.md)
+- **[birdview](https://github.com/Qiuner/birdview)** - 讓 Coding Agent 在改程式前建立架構地圖並標出預計影響範圍的 Skill。 (⭐ 367)
+  - [詳細說明](research-notes/Qiuner--birdview.md)
 
 ### 內容提取與爬蟲
 - **[crawl4ai](https://github.com/unclecode/crawl4ai)** - 將網頁擷取、清理成適合 LLM 使用的 Markdown。 (⭐ 83,663)
