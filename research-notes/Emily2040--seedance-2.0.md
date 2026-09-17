@@ -1,6 +1,6 @@
-# seedance-2.0 專案指南
+# Seedance 2.0｜GitHub 專案導覽
 
-來源：[Emily2040/seedance-2.0 官方 README](https://github.com/Emily2040/seedance-2.0/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/Emily2040/seedance-2.0/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

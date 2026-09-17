@@ -1,6 +1,6 @@
-# GPT Image 提示詞案例庫（freestylefly/awesome-gpt-image-2）
+# awesome-gpt-image-2｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/freestylefly/awesome-gpt-image-2/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/freestylefly/awesome-gpt-image-2/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

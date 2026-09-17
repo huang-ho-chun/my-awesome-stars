@@ -1,6 +1,6 @@
-# 機器學習視覺化教材（gavinkhung/machine-learning-visualized）
+# machine-learning-visualized｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/gavinkhung/machine-learning-visualized/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/gavinkhung/machine-learning-visualized/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

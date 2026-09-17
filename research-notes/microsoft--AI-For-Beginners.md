@@ -1,6 +1,6 @@
-# 人工智慧入門課程（microsoft/AI-For-Beginners）
+# AI-For-Beginners｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/microsoft/AI-For-Beginners/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/microsoft/AI-For-Beginners/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

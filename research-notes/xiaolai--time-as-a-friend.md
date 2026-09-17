@@ -1,6 +1,6 @@
-# 把時間當作朋友（xiaolai/time-as-a-friend）
+# time-as-a-friend｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/xiaolai/time-as-a-friend/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/xiaolai/time-as-a-friend/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

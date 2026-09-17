@@ -1,6 +1,6 @@
-# System Design Interview 筆記（liquidslr/system-design-notes）
+# system-design-notes｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/liquidslr/system-design-notes/blob/HEAD/Readme.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/liquidslr/system-design-notes/blob/HEAD/Readme.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

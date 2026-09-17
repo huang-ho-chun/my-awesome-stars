@@ -1,6 +1,6 @@
-# yao-meta-skill 專案指南
+# yao-meta-skill｜GitHub 專案導覽
 
-來源：[yaojingang/yao-meta-skill 官方 README](https://github.com/yaojingang/yao-meta-skill/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/yaojingang/yao-meta-skill/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

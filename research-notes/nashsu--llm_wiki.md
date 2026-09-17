@@ -1,6 +1,6 @@
-# llm_wiki 專案指南
+# llm_wiki｜GitHub 專案導覽
 
-來源：[官方 README](https://github.com/nashsu/llm_wiki/blob/HEAD/README.md)｜查閱日期：2026-09-16
+> 來源：[專案 README](https://github.com/nashsu/llm_wiki/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

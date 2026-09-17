@@ -1,6 +1,6 @@
-# 深入理解 AI Agent（bojieli/ai-agent-book）
+# ai-agent-book｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/bojieli/ai-agent-book/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/bojieli/ai-agent-book/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

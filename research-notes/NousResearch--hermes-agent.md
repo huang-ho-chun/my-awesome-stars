@@ -1,6 +1,6 @@
-# hermes-agent 專案指南
+# Hermes Agent｜GitHub 專案導覽
 
-來源：[NousResearch/hermes-agent 官方 README](https://github.com/NousResearch/hermes-agent/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/NousResearch/hermes-agent/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

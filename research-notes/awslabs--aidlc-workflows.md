@@ -1,6 +1,6 @@
-# aidlc-workflows 專案指南
+# aidlc-workflows｜GitHub 專案導覽
 
-來源：[awslabs/aidlc-workflows 官方 README](https://github.com/awslabs/aidlc-workflows/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/awslabs/aidlc-workflows/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

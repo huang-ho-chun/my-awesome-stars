@@ -1,6 +1,6 @@
-# claude-video 專案指南
+# claude-video｜GitHub 專案導覽
 
-來源：[bradautomates/claude-video 官方 README](https://github.com/bradautomates/claude-video/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/bradautomates/claude-video/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

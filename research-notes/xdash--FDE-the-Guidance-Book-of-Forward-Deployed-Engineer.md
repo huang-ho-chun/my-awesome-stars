@@ -1,6 +1,6 @@
-# 前線部署工程師指南（xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer）
+# FDE-the-Guidance-Book-of-Forward-Deployed-Engineer｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

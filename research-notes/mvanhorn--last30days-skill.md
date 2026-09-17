@@ -1,6 +1,6 @@
-# last30days-skill 專案指南
+# last30days-skill｜GitHub 專案導覽
 
-來源：[mvanhorn/last30days-skill 官方 README](https://github.com/mvanhorn/last30days-skill/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/mvanhorn/last30days-skill/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

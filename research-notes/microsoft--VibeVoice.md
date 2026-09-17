@@ -1,6 +1,6 @@
-# VibeVoice 專案指南
+# VibeVoice｜GitHub 專案導覽
 
-來源：[microsoft/VibeVoice 官方 README](https://github.com/microsoft/VibeVoice/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/microsoft/VibeVoice/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

@@ -1,6 +1,6 @@
-# Agentic Design Patterns 中文翻譯（xindoo/agentic-design-patterns）
+# agentic-design-patterns｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/xindoo/agentic-design-patterns/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/xindoo/agentic-design-patterns/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

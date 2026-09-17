@@ -1,6 +1,6 @@
-# SRT 白板動畫 Skill（geeklee/srt-whiteboard-animation）
+# srt-whiteboard-animation｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/geeklee/srt-whiteboard-animation/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/geeklee/srt-whiteboard-animation/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

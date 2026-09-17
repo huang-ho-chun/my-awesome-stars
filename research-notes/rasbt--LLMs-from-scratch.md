@@ -1,6 +1,6 @@
-# 從零打造大型語言模型（rasbt/LLMs-from-scratch）
+# LLMs-from-scratch｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/rasbt/LLMs-from-scratch/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/rasbt/LLMs-from-scratch/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

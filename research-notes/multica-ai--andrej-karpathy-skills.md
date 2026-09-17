@@ -1,6 +1,6 @@
-# andrej-karpathy-skills 專案指南
+# andrej-karpathy-skills｜GitHub 專案導覽
 
-來源：[multica-ai/andrej-karpathy-skills 官方 README](https://github.com/multica-ai/andrej-karpathy-skills/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/multica-ai/andrej-karpathy-skills/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

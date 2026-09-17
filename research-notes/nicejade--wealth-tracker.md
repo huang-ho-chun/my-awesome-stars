@@ -1,6 +1,6 @@
-# Wealth Tracker／生財有跡｜GitHub 專案導覽
+# wealth-tracker｜GitHub 專案導覽
 
-> 依 [專案 README](https://github.com/nicejade/wealth-tracker) 於 2026-09-16 整理；著重用途與使用判斷。
+> 來源：[專案 README](https://github.com/nicejade/wealth-tracker)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

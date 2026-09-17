@@ -1,6 +1,6 @@
-# codex-keysmith 專案指南
+# codex-keysmith｜GitHub 專案導覽
 
-來源：[Jia-Ethan/codex-keysmith 官方 README](https://github.com/Jia-Ethan/codex-keysmith/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/Jia-Ethan/codex-keysmith/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

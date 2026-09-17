@@ -1,6 +1,6 @@
-# Brown Dust 2 L2D Viewer｜GitHub 專案導覽
+# BD2-L2D-Viewer｜GitHub 專案導覽
 
-> 依 [專案 README](https://github.com/Jelosus2/BD2-L2D-Viewer) 於 2026-09-16 整理；著重用途與使用判斷。
+> 來源：[專案 README](https://github.com/Jelosus2/BD2-L2D-Viewer)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

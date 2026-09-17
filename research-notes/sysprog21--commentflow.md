@@ -1,6 +1,6 @@
-# commentflow 專案指南
+# commentflow｜GitHub 專案導覽
 
-來源：[官方 README.md](https://github.com/sysprog21/commentflow/blob/HEAD/README.md)｜查閱日期：2026-09-16
+> 來源：[專案 README](https://github.com/sysprog21/commentflow/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

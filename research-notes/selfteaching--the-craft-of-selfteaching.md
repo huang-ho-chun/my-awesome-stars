@@ -1,6 +1,6 @@
-# 自學是門手藝（selfteaching/the-craft-of-selfteaching）
+# the-craft-of-selfteaching｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/selfteaching/the-craft-of-selfteaching/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/selfteaching/the-craft-of-selfteaching/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

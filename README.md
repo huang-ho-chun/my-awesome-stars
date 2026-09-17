@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**Last Updated**: 2026-09-17
+**最後更新**：2026-09-17
 
 ---
 
@@ -28,8 +28,6 @@
 - **[DSPy](https://github.com/stanfordnlp/dspy)** - 以 Python 定義並評估 LLM 流程，再最佳化提示與模型設定。 (⭐ 38,065)
   - [詳細說明](research-notes/stanfordnlp--dspy.md)
 - **[SkillOpt](https://github.com/microsoft/SkillOpt)** - 以任務驗證結果改善 Agent Skill 指引的工具與研究框架。 (⭐ 17,154)
-  - **研究摘要**：這是改善 AI Agent Skill 的文字優化工具，從任務成敗找出修改方向，再用驗證任務檢查是否真的變好。
-  - **適合你／怎麼用**：適合用來改進你反覆使用的 Codex Skills 與工作規範；可先看從歷史工作紀錄學習的 SkillOpt-Sleep，再決定是否導入完整訓練流程。
   - [詳細說明](research-notes/microsoft--SkillOpt.md)
 - **[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** - 將主題或資料變成多 Agent 互動課堂的課程生成系統。 (⭐ 37,318)
   - [詳細說明](research-notes/THU-MAIC--OpenMAIC.md)
@@ -42,16 +40,12 @@
 - **[context-mode](https://github.com/mksglu/context-mode)** - 縮減 Coding Agent 工具輸出占用的上下文，保留可查詢內容。 (⭐ 23,185)
   - [詳細說明](research-notes/mksglu--context-mode.md)
 - **[i-have-adhd](https://github.com/ayghri/i-have-adhd)** - 讓 Coding Agent 先說重點與下一步的輸出風格 Skill。 (⭐ 46,685)
-  - **研究摘要**：這是調整 Coding Agent 回答方式的 Skill：先給下一步、清楚編號並保留目前進度，避免重點埋在長篇說明中。
-  - **適合你／怎麼用**：適合你與 Codex 多輪除錯時使用；可依自己的偏好改寫規則，讓每輪都交代已確認事項與下一個動作。
   - [詳細說明](research-notes/ayghri--i-have-adhd.md)
 - **[GitNexus](https://github.com/abhigyanpatwari/GitNexus)** - 為程式庫建立關係索引，查詢符號、呼叫路徑與修改影響。 (⭐ 47,380)
   - [詳細說明](research-notes/abhigyanpatwari--GitNexus.md)
 - **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** - 替 Agent 設定並檢查多平台網路資料存取能力。 (⭐ 82,337)
   - [詳細說明](research-notes/Panniantong--Agent-Reach.md)
 - **[codegraph](https://github.com/colbymchenry/codegraph)** - 建立程式碼呼叫與相依關係索引，供 Coding Agent 查詢。 (⭐ 71,127)
-  - **研究摘要**：這是替程式庫建立符號、呼叫與相依關係索引的工具，讓 Coding Agent 能查詢程式碼關係及修改影響範圍。
-  - **適合你／怎麼用**：適合你處理跨多個檔案的報告流程或測試工具時，先索引專案，再請 Agent 查函式呼叫路徑與相關模組。
   - [詳細說明](research-notes/colbymchenry--codegraph.md)
 - **[context-hub](https://github.com/andrewyng/context-hub)** - 提供 Coding Agent 可查閱、可註記的版本化 API 文件。 (⭐ 13,981)
   - [詳細說明](research-notes/andrewyng--context-hub.md)
@@ -64,8 +58,6 @@
 - **[claude-video](https://github.com/bradautomates/claude-video)** - 讓 Coding Agent 結合字幕與影格分析影片內容的 Skill。 (⭐ 17,268)
   - [詳細說明](research-notes/bradautomates--claude-video.md)
 - **[book-to-skill](https://github.com/virgiliojr94/book-to-skill)** - 將書籍與文件整理成可按需查閱的 Agent Skill。 (⭐ 30,879)
-  - **研究摘要**：這是把技術書或文件整理成可重複使用的 Agent Skill 的工具，將核心指引與詳細章節分開供 Agent 按需讀取。
-  - **適合你／怎麼用**：適合把常查的 Linux、效能或軟體架構資料變成 Codex 的參考 Skill；先確認產出的索引與內容，再用實際問題測試。
   - [詳細說明](research-notes/virgiliojr94--book-to-skill.md)
 - **[VoxCPM](https://github.com/OpenBMB/VoxCPM)** - 支援多語言朗讀、聲音設計與參考聲音複製的語音模型。 (⭐ 37,639)
   - [詳細說明](research-notes/OpenBMB--VoxCPM.md)
@@ -78,12 +70,8 @@
 - **[diagram-design](https://github.com/cathrynlavery/diagram-design)** - 提供多種圖解類型與視覺規則的 Agent Skill。 (⭐ 40,413)
   - [詳細說明](research-notes/cathrynlavery--diagram-design.md)
 - **[effective-html](https://github.com/plannotator/effective-html)** - 引導 Coding Agent 製作 HTML 圖解、線框圖與互動原型。 (⭐ 3,190)
-  - **研究摘要**：這是一組教 Coding Agent 製作 HTML 資訊成品的 Skills，涵蓋圖解、線框圖、可操作原型與視覺化計畫。
-  - **適合你／怎麼用**：適合把你的測試流程、報告架構或方案比較做成可開啟的頁面；需要看流程時可從 `html-diagram` 開始。
   - [詳細說明](research-notes/plannotator--effective-html.md)
 - **[flint-chart](https://github.com/microsoft/flint-chart)** - 讓 Agent 描述資料意義與圖表需求，再產生可讀圖表。 (⭐ 4,215)
-  - **研究摘要**：這是供 AI Agent 使用的圖表描述與生成層，讓 Agent 指定資料意義和圖表需求，再處理座標軸、標籤與版面等細節。
-  - **適合你／怎麼用**：適合把測試數據接到自動報告流程，產生可閱讀的效能比較圖；先用一份 CSV 試作並核對圖表與原始數值。
   - [詳細說明](research-notes/microsoft--flint-chart.md)
 - **[cangjie-skill](https://github.com/kangarooking/cangjie-skill)** - 從書籍、影片與播客萃取方法，轉成可呼叫的 Agent Skills。 (⭐ 10,145)
   - [詳細說明](research-notes/kangarooking--cangjie-skill.md)
@@ -92,8 +80,6 @@
 - **[holo-card-studio](https://github.com/EverettFish/holo-card-studio)** - 用 Codex Skill 製作全息卡牌、Blender 工程與互動頁面。 (⭐ 1,558)
   - [詳細說明](research-notes/EverettFish--holo-card-studio.md)
 - **[skills](https://github.com/emilkowalski/skills)** - 協助 Coding Agent 改善介面設計、動畫與互動細節的 Skills。 (⭐ 38,203)
-  - **研究摘要**：這是一組給 Coding Agent 的介面與動畫設計 Skills，提供互動細節、動畫檢查、元件選擇和原型設計指引。
-  - **適合你／怎麼用**：適合你請 Codex 製作小工具介面時使用；可先用 `prototype` 比較版本，再用設計或動畫 Skill 檢查細節。
   - [詳細說明](research-notes/emilkowalski--skills.md)
 - **[mattpocock/skills](https://github.com/mattpocock/skills)** - 涵蓋開發、除錯與規劃流程的 Agent Skills 集合。 (⭐ 263,348)
   - [詳細說明](research-notes/mattpocock--skills.md)
@@ -106,8 +92,6 @@
 - **[yao-meta-skill](https://github.com/yaojingang/yao-meta-skill)** - 協助建立、檢查與更新其他 Agent Skills 的元技能。 (⭐ 2,617)
   - [詳細說明](research-notes/yaojingang--yao-meta-skill.md)
 - **[sepia](https://github.com/Nanako0129/sepia)** - 改善 AI 寫作制式與冗長文風的 Agent Skill。 (⭐ 2,639)
-  - **研究摘要**：這是給 AI Agent 的寫作 Skill，處理制式、冗長的 AI 文風，也提供專業文件與技術文章的寫作規則。
-  - **適合你／怎麼用**：適合整理你的技術文件、Issue／PR 回覆與除錯紀錄；可先針對一篇草稿使用 Professional Writing 規則並人工核對事實。
   - [詳細說明](research-notes/Nanako0129--sepia.md)
 - **[craft-skills](https://github.com/ZSeven-W/craft-skills)** - 以研究資料與評測結果設計的 Agent Skills 集合。 (⭐ 154)
   - [詳細說明](research-notes/ZSeven-W--craft-skills.md)
@@ -206,8 +190,6 @@
 - **[fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)** - 依文字描述產生 SVG、PNG 架構圖與技術流程圖。 (⭐ 11,432)
   - [詳細說明](research-notes/yizhiyanhua-ai--fireworks-tech-graph.md)
 - **[ppt-master](https://github.com/hugohe3/ppt-master)** - 讓 AI Agent 從文件製作可在 PowerPoint 編輯的簡報。 (⭐ 54,772)
-  - **研究摘要**：這是讓 AI Agent 從文件、資料或主題規劃並產出可編輯 PowerPoint 的製作流程，目標是保留文字、形狀和圖表等原生物件。
-  - **適合你／怎麼用**：適合把測試結果或技術報告整理成給主管看的簡報；先提供資料、聽眾與頁數，再於 PowerPoint 檢查內容和可編輯性。
   - [詳細說明](research-notes/hugohe3--ppt-master.md)
 - **[awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** - 提供影像提示詞、案例與模板的資源庫。 (⭐ 32,221)
   - [詳細說明](research-notes/freestylefly--awesome-gpt-image-2.md)
@@ -216,8 +198,6 @@
 - **[handraw-style](https://github.com/yang0/handraw-style)** - 用編號畫廊挑選手繪風格並產生對應提示詞。 (⭐ 1,972)
   - [詳細說明](research-notes/yang0--handraw-style.md)
 - **[ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** - 把中文文章內容轉成「小黑」風格正文插圖的 Skill。 (⭐ 11,722)
-  - **研究摘要**：這是把文章轉成小黑風格插圖的 Agent Skill，包含選圖流程、風格規格、構圖範例與品質檢查。
-  - **適合你／怎麼用**：對你更有價值的是它的 Skill 結構：可參考其按需讀取的知識檔與檢查步驟，設計自己的技術筆記插圖流程。
   - [詳細說明](research-notes/helloianneo--ian-xiaohei-illustrations.md)
 - **[ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)** - 協助 Agent 設計簡潔吉祥物 Logo 的 Skill。 (⭐ 5,288)
   - [詳細說明](research-notes/s1dashu--ip-as-logo-skill.md)
@@ -246,8 +226,6 @@
 - **[llm_wiki](https://github.com/nashsu/llm_wiki)** - 匯入文件並持續建立連結與知識圖譜的桌面知識庫。 (⭐ 19,632)
   - [詳細說明](research-notes/nashsu--llm_wiki.md)
 - **[obsidian-llm-wiki](https://github.com/GD4AI/obsidian-llm-wiki)** - 在 Obsidian 中用 AI 建立來源、概念頁與筆記連結的外掛。 (⭐ 626)
-  - **研究摘要**：這是把 Karpathy LLM Wiki 工作方式帶進 Obsidian 的外掛，協助以 AI 整理和連結個人知識。
-  - **適合你／怎麼用**：適合你現有的 Obsidian 筆記庫；可先在副本試用文件匯入、知識整理與引用回溯，再決定是否納入主要筆記流程。
   - [詳細說明](research-notes/GD4AI--obsidian-llm-wiki.md)
 - **[Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)** - 把程式庫轉成互動知識圖，輔助理解依賴與變更影響。 (⭐ 83,035)
   - [詳細說明](research-notes/Egonex-AI--Understand-Anything.md)
@@ -264,8 +242,6 @@
 - **[PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)** - 翻譯學術 PDF 並盡量保留公式、圖表與原版面。 (⭐ 36,997)
   - [詳細說明](research-notes/PDFMathTranslate--PDFMathTranslate.md)
 - **[liteparse](https://github.com/run-llama/liteparse)** - 把 PDF 等文件解析成 Markdown、文字或結構化資料。 (⭐ 12,316)
-  - **研究摘要**：這是可在本機執行的輕量文件解析工具，將 PDF 等文件轉成文字、Markdown 或結構化資料，供 LLM、RAG 或程式使用。
-  - **適合你／怎麼用**：適合放在你文件整理與報告流程的前處理階段；先用代表性的 PDF 檢查段落、表格與來源位置是否保留。
   - [詳細說明](research-notes/run-llama--liteparse.md)
 - **[opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)** - 輸出 Markdown 或 JSON 的跨語言 PDF 解析工具。 (⭐ 29,286)
   - [詳細說明](research-notes/opendataloader-project--opendataloader-pdf.md)
@@ -431,4 +407,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**: 2026-09-17
+**最後更新**：2026-09-17

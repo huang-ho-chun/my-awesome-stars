@@ -1,6 +1,6 @@
 # SkillOpt｜GitHub 專案導覽
 
-> 依 [專案 README](https://github.com/microsoft/SkillOpt) 與相關文件於 2026-09-16 重寫；著重用途與使用判斷，不深入原始碼。
+> 來源：[專案 README](https://github.com/microsoft/SkillOpt)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

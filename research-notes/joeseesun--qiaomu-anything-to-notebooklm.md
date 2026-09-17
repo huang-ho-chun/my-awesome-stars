@@ -1,6 +1,6 @@
-# qiaomu-anything-to-notebooklm 專案指南
+# qiaomu-anything-to-notebooklm｜GitHub 專案導覽
 
-來源：[官方 README](https://github.com/joeseesun/qiaomu-anything-to-notebooklm/blob/HEAD/README.md)｜查閱日期：2026-09-16
+> 來源：[專案 README](https://github.com/joeseesun/qiaomu-anything-to-notebooklm/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

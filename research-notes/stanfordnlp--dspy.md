@@ -1,6 +1,6 @@
-# dspy 專案指南
+# DSPy｜GitHub 專案導覽
 
-來源：[stanfordnlp/dspy 官方 README](https://github.com/stanfordnlp/dspy/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/stanfordnlp/dspy/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

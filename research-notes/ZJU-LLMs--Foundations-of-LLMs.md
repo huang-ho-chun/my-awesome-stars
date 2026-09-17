@@ -1,6 +1,6 @@
-# 大模型基礎（ZJU-LLMs/Foundations-of-LLMs）
+# Foundations-of-LLMs｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/ZJU-LLMs/Foundations-of-LLMs/blob/HEAD/readme.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/ZJU-LLMs/Foundations-of-LLMs/blob/HEAD/readme.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

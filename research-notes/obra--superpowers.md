@@ -1,6 +1,6 @@
-# superpowers 專案指南
+# superpowers｜GitHub 專案導覽
 
-來源：[obra/superpowers 官方 README](https://github.com/obra/superpowers/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/obra/superpowers/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

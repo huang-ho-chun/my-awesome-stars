@@ -1,6 +1,6 @@
-# instaloader 專案指南
+# instaloader｜GitHub 專案導覽
 
-來源：[官方 README.rst](https://github.com/instaloader/instaloader/blob/HEAD/README.rst)｜查閱日期：2026-09-16
+> 來源：[專案 README](https://github.com/instaloader/instaloader/blob/HEAD/README.rst)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

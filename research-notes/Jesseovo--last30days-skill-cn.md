@@ -1,6 +1,6 @@
-# last30days-skill-cn 專案指南
+# last30days-skill-cn｜GitHub 專案導覽
 
-來源：[Jesseovo/last30days-skill-cn 官方 README](https://github.com/Jesseovo/last30days-skill-cn/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/Jesseovo/last30days-skill-cn/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

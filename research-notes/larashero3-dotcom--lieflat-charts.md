@@ -1,6 +1,6 @@
-# Lieflat Charts（larashero3-dotcom/lieflat-charts）
+# lieflat-charts｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/larashero3-dotcom/lieflat-charts/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/larashero3-dotcom/lieflat-charts/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

@@ -1,6 +1,6 @@
-# 動手學大模型（Lordog/dive-into-llms）
+# dive-into-llms｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/Lordog/dive-into-llms/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/Lordog/dive-into-llms/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

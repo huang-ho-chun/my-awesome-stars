@@ -1,6 +1,6 @@
-# 生成式 AI 入門課程（microsoft/generative-ai-for-beginners）
+# generative-ai-for-beginners｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/microsoft/generative-ai-for-beginners/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/microsoft/generative-ai-for-beginners/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

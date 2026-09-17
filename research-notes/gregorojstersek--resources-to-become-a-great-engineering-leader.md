@@ -1,6 +1,6 @@
-# 工程領導學習資源清單（gregorojstersek/resources-to-become-a-great-engineering-leader）
+# resources-to-become-a-great-engineering-leader｜GitHub 專案導覽
 
-資料來源：[官方 README](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader/blob/HEAD/README.md)；查閱日期：2026-09-16。
+> 來源：[專案 README](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

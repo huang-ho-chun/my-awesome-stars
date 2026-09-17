@@ -1,6 +1,6 @@
-# open-code-review 專案指南
+# open-code-review｜GitHub 專案導覽
 
-來源：[官方 README.md](https://github.com/alibaba/open-code-review/blob/HEAD/README.md)｜查閱日期：2026-09-16
+> 來源：[專案 README](https://github.com/alibaba/open-code-review/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 

@@ -1,6 +1,6 @@
-# CloakBrowser 專案指南
+# CloakBrowser｜GitHub 專案導覽
 
-來源：[官方 README.md](https://github.com/CloakHQ/CloakBrowser/blob/HEAD/README.md)｜查閱日期：2026-09-16
+> 來源：[專案 README](https://github.com/CloakHQ/CloakBrowser/blob/HEAD/README.md)；查閱日期：2026-09-16。
 
 ## 1. 這是什麼？
 
