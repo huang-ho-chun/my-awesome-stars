@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-09-17
+**最後更新**：2026-09-19
 
 ---
 
@@ -75,6 +75,8 @@
   - [詳細說明](research-notes/microsoft--flint-chart.md)
 - **[cangjie-skill](https://github.com/kangarooking/cangjie-skill)** - 從書籍、影片與播客萃取方法，轉成可呼叫的 Agent Skills。 (⭐ 10,145)
   - [詳細說明](research-notes/kangarooking--cangjie-skill.md)
+- **[learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials)** - 將書籍、PDF、簡報與網頁整理成可追溯知識庫、互動學習頁及同步 Markdown 的 Agent Skill。 (⭐ 306)
+  - [詳細說明](research-notes/dmoshehun-prog--learn-from-materials.md)
 - **[dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill)** - 讓 Agent 產生可在瀏覽器編輯、可輸出 PPTX 的簡報。 (⭐ 8,302)
   - [詳細說明](research-notes/chuspeeism--dashi-ppt-skill.md)
 - **[holo-card-studio](https://github.com/EverettFish/holo-card-studio)** - 用 Codex Skill 製作全息卡牌、Blender 工程與互動頁面。 (⭐ 1,558)
