@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-09-19
+**最後更新**：2026-09-20
 
 ---
 
@@ -247,6 +247,8 @@
   - [詳細說明](research-notes/PDFMathTranslate--PDFMathTranslate.md)
 - **[liteparse](https://github.com/run-llama/liteparse)** - 把 PDF 等文件解析成 Markdown、文字或結構化資料。 (⭐ 12,316)
   - [詳細說明](research-notes/run-llama--liteparse.md)
+- **[pdf-inspector](https://github.com/firecrawl/pdf-inspector)** - 快速判斷 PDF 是文字型、掃描型或混合型，並將可解析內容轉成結構化 Markdown。 (⭐ 19,238)
+  - [詳細說明](research-notes/firecrawl--pdf-inspector.md)
 - **[opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)** - 輸出 Markdown 或 JSON 的跨語言 PDF 解析工具。 (⭐ 29,286)
   - [詳細說明](research-notes/opendataloader-project--opendataloader-pdf.md)
 - **[KillerPDF](https://github.com/SteveTheKiller/KillerPDF)** - 可用圖形介面編輯 PDF 的免費開源軟體。 (⭐ 3,864)
