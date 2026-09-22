@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-09-20
+**最後更新**：2026-09-22
 
 ---
 
@@ -163,6 +163,8 @@
   - [詳細說明](research-notes/selfteaching--the-craft-of-selfteaching.md)
 - **[A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)** - 面向程式設計者的中文英語學習方法與資源指南。 (⭐ 16,691)
   - [詳細說明](research-notes/yujiangshui--A-Programmers-Guide-to-English.md)
+- **[IELTS Atlas](https://github.com/gtiipoi/ielts-practice)** - 可在本機練習雅思閱讀與聽力，記錄成績、錯題與學習進度的純前端系統。 (⭐ 316)
+  - [詳細說明](research-notes/gtiipoi--ielts-practice.md)
 - **[time-as-a-friend](https://github.com/xiaolai/time-as-a-friend)** - 探討時間、思考與長期成長的《把時間當作朋友》線上讀物。 (⭐ 2,820)
   - [詳細說明](research-notes/xiaolai--time-as-a-friend.md)
 - **[resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)** - 依管理、技術與溝通主題整理的工程領導資源索引。 (⭐ 7,643)
@@ -225,6 +227,8 @@
   - [詳細說明](research-notes/infiniflow--ragflow.md)
 - **[LEANN](https://github.com/StarTrail-org/LEANN)** - 節省索引儲存空間的本機向量檢索與個人 RAG 工具。 (⭐ 12,941)
   - [詳細說明](research-notes/StarTrail-org--LEANN.md)
+- **[supermemory](https://github.com/supermemoryai/supermemory)** - 為 AI 助理與應用提供跨對話記憶、使用者檔案、RAG 搜尋和資料連接器。 (⭐ 30,805)
+  - [詳細說明](research-notes/supermemoryai--supermemory.md)
 
 ### 知識庫管理
 - **[llm_wiki](https://github.com/nashsu/llm_wiki)** - 匯入文件並持續建立連結與知識圖譜的桌面知識庫。 (⭐ 19,632)
@@ -337,6 +341,8 @@
   - [詳細說明](research-notes/codeman008--Financial_freedom.md)
 - **[FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** - 提供市場資料、投資研究與分析介面的桌面金融終端。 (⭐ 31,690)
   - [詳細說明](research-notes/Fincept-Corporation--FinceptTerminal.md)
+- **[OpenStock](https://github.com/Open-Dev-Society/OpenStock)** - 可自架的股票追蹤與研究平台，提供行情、圖表、觀察清單、提醒及公司資訊。 (⭐ 18,179)
+  - [詳細說明](research-notes/Open-Dev-Society--OpenStock.md)
 
 ---
 
