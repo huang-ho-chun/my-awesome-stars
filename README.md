@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-09-22
+**最後更新**：2026-09-24
 
 ---
 
@@ -39,12 +39,16 @@
 ### Agent 工具
 - **[context-mode](https://github.com/mksglu/context-mode)** - 縮減 Coding Agent 工具輸出占用的上下文，保留可查詢內容。 (⭐ 23,185)
   - [詳細說明](research-notes/mksglu--context-mode.md)
+- **[codex-skill-dashboard](https://github.com/tonywei49/codex-skill-dashboard)** - 在本機查看 Codex Skills 啟用狀態與使用紀錄，並管理暫停、說明翻譯和統計。 (⭐ 4)
+  - [詳細說明](research-notes/tonywei49--codex-skill-dashboard.md)
 - **[i-have-adhd](https://github.com/ayghri/i-have-adhd)** - 讓 Coding Agent 先說重點與下一步的輸出風格 Skill。 (⭐ 46,685)
   - [詳細說明](research-notes/ayghri--i-have-adhd.md)
 - **[GitNexus](https://github.com/abhigyanpatwari/GitNexus)** - 為程式庫建立關係索引，查詢符號、呼叫路徑與修改影響。 (⭐ 47,380)
   - [詳細說明](research-notes/abhigyanpatwari--GitNexus.md)
 - **[Agent-Reach](https://github.com/Panniantong/Agent-Reach)** - 替 Agent 設定並檢查多平台網路資料存取能力。 (⭐ 82,337)
   - [詳細說明](research-notes/Panniantong--Agent-Reach.md)
+- **[OpenCLI](https://github.com/jackwener/OpenCLI)** - 將網站操作包成 Agent 可呼叫的命令，並可透過瀏覽器橋接沿用既有登入狀態。 (⭐ 29,595)
+  - [詳細說明](research-notes/jackwener--OpenCLI.md)
 - **[codegraph](https://github.com/colbymchenry/codegraph)** - 建立程式碼呼叫與相依關係索引，供 Coding Agent 查詢。 (⭐ 71,127)
   - [詳細說明](research-notes/colbymchenry--codegraph.md)
 - **[context-hub](https://github.com/andrewyng/context-hub)** - 提供 Coding Agent 可查閱、可註記的版本化 API 文件。 (⭐ 13,981)
@@ -77,6 +81,8 @@
   - [詳細說明](research-notes/kangarooking--cangjie-skill.md)
 - **[learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials)** - 將書籍、PDF、簡報與網頁整理成可追溯知識庫、互動學習頁及同步 Markdown 的 Agent Skill。 (⭐ 306)
   - [詳細說明](research-notes/dmoshehun-prog--learn-from-materials.md)
+- **[ljg-skills](https://github.com/lijigang/ljg-skills)** - 涵蓋閱讀、學習、寫作、圖卡與思考分析的中文 Agent Skills 集合。 (⭐ 7,394)
+  - [詳細說明](research-notes/lijigang--ljg-skills.md)
 - **[dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill)** - 讓 Agent 產生可在瀏覽器編輯、可輸出 PPTX 的簡報。 (⭐ 8,302)
   - [詳細說明](research-notes/chuspeeism--dashi-ppt-skill.md)
 - **[holo-card-studio](https://github.com/EverettFish/holo-card-studio)** - 用 Codex Skill 製作全息卡牌、Blender 工程與互動頁面。 (⭐ 1,558)
@@ -115,6 +121,8 @@
   - [詳細說明](research-notes/criptogus--HermesOffice.md)
 - **[openchamber](https://github.com/openchamber/openchamber)** - 以 OpenCode 為核心的 Agent 開發工作環境。 (⭐ 9,921)
   - [詳細說明](research-notes/openchamber--openchamber.md)
+- **[Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)** - 將 Claude Code 組成含企劃、程式、美術、QA 與發行流程的遊戲開發範本。 (⭐ 25,411)
+  - [詳細說明](research-notes/Donchitos--Claude-Code-Game-Studios.md)
 - **[gepa](https://github.com/gepa-ai/gepa)** - 利用 LLM 反思與評估結果，最佳化提示等文字參數。 (⭐ 6,599)
   - [詳細說明](research-notes/gepa-ai--gepa.md)
 - **[llmfit](https://github.com/AlexsJones/llmfit)** - 依 CPU、GPU 與記憶體推薦可在本機執行的 LLM。 (⭐ 36,659)
@@ -161,10 +169,14 @@
 ### 自我提升
 - **[the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)** - 用 Python 與寫作練習建立自學能力的開放教材。 (⭐ 16,819)
   - [詳細說明](research-notes/selfteaching--the-craft-of-selfteaching.md)
+- **[xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching)** - 李笑來《自學是門手藝》的早期 Notebook 倉庫，結合自學方法與 Python 練習。 (⭐ 17,210)
+  - [詳細說明](research-notes/xiaolai--the-craft-of-selfteaching.md)
 - **[A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)** - 面向程式設計者的中文英語學習方法與資源指南。 (⭐ 16,691)
   - [詳細說明](research-notes/yujiangshui--A-Programmers-Guide-to-English.md)
 - **[IELTS Atlas](https://github.com/gtiipoi/ielts-practice)** - 可在本機練習雅思閱讀與聽力，記錄成績、錯題與學習進度的純前端系統。 (⭐ 316)
   - [詳細說明](research-notes/gtiipoi--ielts-practice.md)
+- **[awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)** - 彙整《經濟學人》、《紐約客》等英文雜誌檔案與閱讀器建議的更新型資料庫。 (⭐ 36,936)
+  - [詳細說明](research-notes/hehonghui--awesome-english-ebooks.md)
 - **[time-as-a-friend](https://github.com/xiaolai/time-as-a-friend)** - 探討時間、思考與長期成長的《把時間當作朋友》線上讀物。 (⭐ 2,820)
   - [詳細說明](research-notes/xiaolai--time-as-a-friend.md)
 - **[resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)** - 依管理、技術與溝通主題整理的工程領導資源索引。 (⭐ 7,643)
