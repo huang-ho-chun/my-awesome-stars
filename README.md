@@ -54,6 +54,9 @@
 - **[context-hub](https://github.com/andrewyng/context-hub)** - 提供 Coding Agent 可查閱、可註記的版本化 API 文件。 (⭐ 13,981)
   - [詳細說明](research-notes/andrewyng--context-hub.md)
 
+- **[SimpleMem](https://github.com/aiming-lab/SimpleMem)** - 為 LLM Agent 提供文字與多模態長期記憶、壓縮及檢索的研究與工具。 (⭐ 3,815)
+  - [詳細說明](research-notes/aiming-lab--SimpleMem.md)
+
 ### 多模態
 - **[CosyVoice](https://github.com/QwenAudio/CosyVoice)** - 提供多語言語音生成與參考聲音複製的模型專案。 (⭐ 23,641)
   - [詳細說明](research-notes/QwenAudio--CosyVoice.md)
@@ -110,6 +113,9 @@
 - **[aidlc-workflows](https://github.com/awslabs/aidlc-workflows)** - 替多種 Coding Agent 提供結構化開發流程的範本。 (⭐ 4,652)
   - [詳細說明](research-notes/awslabs--aidlc-workflows.md)
 
+- **[follow-builders](https://github.com/zarazhangrui/follow-builders)** - 定期彙整 AI 建構者貼文、播客與官方部落格的 Agent Skill。 (⭐ 6,807)
+  - [詳細說明](research-notes/zarazhangrui--follow-builders.md)
+
 ### 其他 Agent 相關
 - **[agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies)** - 用 LangGraph 示範 Agentic RAG 組件與流程的教學專案。 (⭐ 4,172)
   - [詳細說明](research-notes/GiovanniPasq--agentic-rag-for-dummies.md)
@@ -165,6 +171,11 @@
   - [詳細說明](research-notes/shareAI-lab--learn-claude-code.md)
 - **[ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** - 從機器學習到 LLM、Agent 與部署的分階段自學課程。 (⭐ 54,774)
   - [詳細說明](research-notes/rohitg00--ai-engineering-from-scratch.md)
+
+- **[AI Agents: The Definitive Guide](https://github.com/Nicolepcx/ai-agents-the-definitive-guide)** - 搭配書籍學習 Agent 架構、部署、評估、記憶與安全的 Notebook。 (⭐ 2,521)
+  - [詳細說明](research-notes/Nicolepcx--ai-agents-the-definitive-guide.md)
+- **[AI Engineering Interview Questions](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise)** - 按公司與主題整理公開 AI 工程面試題目及準備方向。 (⭐ 1,502)
+  - [詳細說明](research-notes/pallavi-shekhar--ai-engineering-interview-questions-company-wise.md)
 
 ### 自我提升
 - **[the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)** - 用 Python 與寫作練習建立自學能力的開放教材。 (⭐ 16,819)
@@ -252,6 +263,9 @@
 - **[knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog)** - 展示 Google Cloud 資料目錄工具、Agent 與範例的倉庫。 (⭐ 9,214)
   - [詳細說明](research-notes/GoogleCloudPlatform--knowledge-catalog.md)
 
+- **[Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract)** - 將文件擷取成可追溯的圖譜、超圖等知識結構，並可匯出 Obsidian。 (⭐ 4,026)
+  - [詳細說明](research-notes/yifanfeng97--Hyper-Extract.md)
+
 ### 文檔處理
 - **[MinerU](https://github.com/opendatalab/MinerU)** - 解析 PDF、掃描圖與 Office 文件，供 Agent 定位和讀取內容。 (⭐ 80,038)
   - [詳細說明](research-notes/opendatalab--MinerU.md)
@@ -300,6 +314,11 @@
 - **[birdview](https://github.com/Qiuner/birdview)** - 讓 Coding Agent 在改程式前建立架構地圖並標出預計影響範圍的 Skill。 (⭐ 367)
   - [詳細說明](research-notes/Qiuner--birdview.md)
 
+- **[Ix](https://github.com/ix-infrastructure/Ix)** - 將程式庫建成持久系統圖，供人與 Coding Agent 查詢流程及修改影響。 (⭐ 999)
+  - [詳細說明](research-notes/ix-infrastructure--Ix.md)
+- **[Graft](https://github.com/trailhq/Graft)** - 建立本機程式碼上下文圖，為多種 Coding Agent 提供相關結構資訊。 (⭐ 9,320)
+  - [詳細說明](research-notes/trailhq--Graft.md)
+
 ### 內容提取與爬蟲
 - **[crawl4ai](https://github.com/unclecode/crawl4ai)** - 將網頁擷取、清理成適合 LLM 使用的 Markdown。 (⭐ 83,663)
   - [詳細說明](research-notes/unclecode--crawl4ai.md)
@@ -340,6 +359,9 @@
   - [詳細說明](research-notes/nexmoe--VidBee.md)
 - **[wenyi](https://github.com/BigDawnGhost/wenyi)** - 維護術語與全書脈絡的長篇書籍 AI 翻譯工具。 (⭐ 2,602)
   - [詳細說明](research-notes/BigDawnGhost--wenyi.md)
+- **[DashPlayer](https://github.com/solidSpoon/DashPlayer)** - 結合雙語字幕、逐句精聽、查詞與本機字幕生成的英語學習播放器。 (⭐ 4,465)
+  - [詳細說明](research-notes/solidSpoon--DashPlayer.md)
+
 
 ---
 
@@ -355,6 +377,9 @@
   - [詳細說明](research-notes/Fincept-Corporation--FinceptTerminal.md)
 - **[OpenStock](https://github.com/Open-Dev-Society/OpenStock)** - 可自架的股票追蹤與研究平台，提供行情、圖表、觀察清單、提醒及公司資訊。 (⭐ 18,179)
   - [詳細說明](research-notes/Open-Dev-Society--OpenStock.md)
+- **[awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading)** - 彙整回測、資料、因子、風險與實盤工具的系統化交易資源清單。 (⭐ 5,213)
+  - [詳細說明](research-notes/wangzhe3224--awesome-systematic-trading.md)
+
 
 ---
 
@@ -393,6 +418,9 @@
 - **[career-ops](https://github.com/career-ops-hq/career-ops)** - 在本機 AI CLI 中評估職缺、調整履歷與追蹤申請。 (⭐ 71,795)
   - [詳細說明](research-notes/career-ops-hq--career-ops.md)
 
+- **[TREK](https://github.com/liketrek/TREK)** - 可自架、支援多人協作、地圖、預算與清單的旅行規劃 Web 應用。 (⭐ 14,411)
+  - [詳細說明](research-notes/liketrek--TREK.md)
+
 ### 簡歷與個人品牌
 - **[magic-resume](https://github.com/JOYCEQL/magic-resume)** - 提供即時預覽、主題與 PDF 匯出的開源履歷編輯器。 (⭐ 10,571)
   - [詳細說明](research-notes/JOYCEQL--magic-resume.md)
@@ -421,7 +449,7 @@
 
 ## 📊 統計數據
 
-- **Total Stars**: 150+ repositories
+- **Total Stars**: 160+ repositories
 - **Highest Stars**: awesome (506,592 ⭐)
 - **Main Categories**: AI/Agent (40%), Learning Resources (15%), Design & Visualization (15%), RAG & Knowledge (10%), Tools (20%)
 
@@ -433,4 +461,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-09-17
+**最後更新**：2026-09-28
