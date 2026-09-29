@@ -270,6 +270,8 @@
 
 - **[Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract)** - 將文件擷取成可追溯的圖譜、超圖等知識結構，並可匯出 Obsidian。 (⭐ 4,026)
   - [詳細說明](research-notes/yifanfeng97--Hyper-Extract.md)
+- **[OpenKB](https://github.com/VectifyAI/OpenKB)** - 將 PDF、Office、網頁等資料持續編譯成互相連結的 Markdown Wiki，並支援 Query、Chat、知識圖與 Agent Skill 生成。
+  - [詳細說明](research-notes/VectifyAI--OpenKB.md)
 
 ### 文檔處理
 - **[MinerU](https://github.com/opendatalab/MinerU)** - 解析 PDF、掃描圖與 Office 文件，供 Agent 定位和讀取內容。 (⭐ 80,038)
