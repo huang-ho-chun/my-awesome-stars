@@ -29,6 +29,8 @@
   - [詳細說明](research-notes/stanfordnlp--dspy.md)
 - **[SkillOpt](https://github.com/microsoft/SkillOpt)** - 以任務驗證結果改善 Agent Skill 指引的工具與研究框架。 (⭐ 17,154)
   - [詳細說明](research-notes/microsoft--SkillOpt.md)
+- **[RRSI](https://github.com/google-research/rrsi)** - 讓固定 LLM 的 Agent Harness 透過 Benchmark 反覆修改 Prompt、流程、工具、Skill、Memory 與 Sub-agent，並用正則化機制降低過度擬合。 (⭐ 846)
+  - [詳細說明](research-notes/google-research--rrsi.md)
 - **[OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** - 將主題或資料變成多 Agent 互動課堂的課程生成系統。 (⭐ 37,318)
   - [詳細說明](research-notes/THU-MAIC--OpenMAIC.md)
 - **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** - 整合工具、記憶與排程，可在終端或訊息平台使用的個人 Agent。 (⭐ 246,062)
