@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-09-24
+**最後更新**：2026-09-29
 
 ---
 
@@ -176,6 +176,9 @@
   - [詳細說明](research-notes/Nicolepcx--ai-agents-the-definitive-guide.md)
 - **[AI Engineering Interview Questions](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise)** - 按公司與主題整理公開 AI 工程面試題目及準備方向。 (⭐ 1,502)
   - [詳細說明](research-notes/pallavi-shekhar--ai-engineering-interview-questions-company-wise.md)
+
+- **[AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)** - 以 18 課文字、影片與 Python 範例介紹 Agent 設計、工具、RAG、記憶、部署及安全。 (⭐ 76,049)
+  - [詳細說明](research-notes/microsoft--ai-agents-for-beginners.md)
 
 ### 自我提升
 - **[the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)** - 用 Python 與寫作練習建立自學能力的開放教材。 (⭐ 16,819)
