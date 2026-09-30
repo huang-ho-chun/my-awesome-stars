@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-09-29
+**最後更新**：2026-09-30
 
 ---
 
@@ -451,6 +451,9 @@
   - [詳細說明](research-notes/p-e-w--heretic.md)
 - **[BD2-L2D-Viewer](https://github.com/Jelosus2/BD2-L2D-Viewer)** - 檢視《Brown Dust 2》角色 Live2D／Spine 動畫的網頁工具。 (⭐ 494)
   - [詳細說明](research-notes/Jelosus2--BD2-L2D-Viewer.md)
+- **[AIHOT](https://github.com/KKKKhazix/AIHOT)** - 可自架並自訂信源、篩選標準、事件聚簇與日報的行業熱點網站框架。 (⭐ 3,867)
+  - [詳細說明](research-notes/KKKKhazix--AIHOT.md)
+
 
 ---
 
