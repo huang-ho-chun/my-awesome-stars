@@ -598,50 +598,7 @@ codegraph init
 
 ---
 
-## 10. 跟近期研究工具的定位差異
-
-CodeGraph 跟 DSPy、SkillOpt 其實不是同一類工具。
-
-### DSPy
-
-比較偏：
-
-> **程式化建立與最佳化 LLM pipeline。**
-
-如果目前主要是在使用現成 Coding Agent，而不是自己開發複雜 LLM application，未必需要立刻導入。
-
-### SkillOpt
-
-比較偏：
-
-> **最佳化 Agent Skill / instruction / workflow。**
-
-適合之後開始大量建立自己的 Skill、Agent workflow 時研究。
-
-### CodeGraph
-
-比較偏：
-
-> **直接改善 Coding Agent 對現有 repository 的理解能力。**
-
-因此它跟目前的 Codex + Repository + AGENTS.md 工作流關係最直接。
-
-```text
-DSPy
-→ 最佳化 LLM Program
-
-SkillOpt
-→ 最佳化 Skill / Agent 行為
-
-CodeGraph
-→ 最佳化 Agent 對 Codebase 的理解
-```
-
-所以就目前實際使用優先度來看，CodeGraph 是很適合近期直接安裝測試的一個工具。
-
----
-
-## 11. 最後判斷
+## 10. 最後判斷
 
 ### 值不值得研究？
 
