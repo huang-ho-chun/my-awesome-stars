@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-09-30
+**最後更新**：2026-10-02
 
 ---
 
@@ -338,6 +338,9 @@
 - **[CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** - 調整瀏覽器指紋、供自動化使用的 Chromium 工具。 (⭐ 31,497)
   - [詳細說明](research-notes/CloakHQ--CloakBrowser.md)
 
+- **[patchright-enhanced](https://github.com/whaleyxbt/patchright-enhanced)** - 以 Patchright 啟動帶代理與基本隱匿設定的 Chrome 自動化工作階段。 (⭐ 339)
+  - [詳細說明](research-notes/whaleyxbt--patchright-enhanced.md)
+
 ### 會議與記錄
 - **[recensa](https://github.com/S40911120/recensa)** - 搜尋與重播 Claude Code 工作紀錄的自架網頁檢視器。 (⭐ 72)
   - [詳細說明](research-notes/S40911120--recensa.md)
@@ -368,6 +371,9 @@
   - [詳細說明](research-notes/BigDawnGhost--wenyi.md)
 - **[DashPlayer](https://github.com/solidSpoon/DashPlayer)** - 結合雙語字幕、逐句精聽、查詞與本機字幕生成的英語學習播放器。 (⭐ 4,465)
   - [詳細說明](research-notes/solidSpoon--DashPlayer.md)
+
+- **[story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)** - 讓 Agent 將中文故事或圖片製成手繪日記漫畫風格的直式靜音動畫。 (⭐ 2,131)
+  - [詳細說明](research-notes/gnipbao--story-to-handdrawn-video.md)
 
 
 ---
@@ -404,6 +410,9 @@
   - [詳細說明](research-notes/filipecalegario--awesome-vibe-coding.md)
 - **[vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn)** - 介紹 AI 協作開發、驗證與審查流程的中文指南。 (⭐ 16,251)
   - [詳細說明](research-notes/tradecatlabs--vibe-coding-cn.md)
+- **[awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos)** - 蒐集 Claude Opus 5.5 生成影片案例、原始作品與可重用提示詞。 (⭐ 1,347)
+  - [詳細說明](research-notes/yihui-dev--awesome-opus5-5-videos.md)
+
 
 ---
 
