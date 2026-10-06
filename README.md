@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-10-02
+**最後更新**：2026-10-06
 
 ---
 
@@ -227,6 +227,9 @@
   - [詳細說明](research-notes/hugohe3--ppt-master.md)
 - **[awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** - 提供影像提示詞、案例與模板的資源庫。 (⭐ 32,221)
   - [詳細說明](research-notes/freestylefly--awesome-gpt-image-2.md)
+
+- **[AetherViz Master](https://github.com/andyhuo520/aetherviz-master)** - 引導 Agent 將教學主題製成含 3D、圖表與互動控制的網頁。 (⭐ 1,495)
+  - [詳細說明](research-notes/andyhuo520--aetherviz-master.md)
 
 ### 視覺內容
 - **[handraw-style](https://github.com/yang0/handraw-style)** - 用編號畫廊挑選手繪風格並產生對應提示詞。 (⭐ 1,972)
