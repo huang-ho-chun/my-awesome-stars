@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-10-06
+**最後更新**：2026-10-07
 
 ---
 
@@ -242,6 +242,9 @@
   - [詳細說明](research-notes/geeklee--srt-whiteboard-animation.md)
 - **[chinese-traditional-patterns](https://github.com/dososo/chinese-traditional-patterns)** - 提供傳統紋樣圖錄、寓意與應用資料的素材庫。 (⭐ 299)
   - [詳細說明](research-notes/dososo--chinese-traditional-patterns.md)
+
+- **[LightCraft](https://github.com/storytold/lightcraft)** - 以 Rust 製作的本機照片管理與非破壞式 RAW 修圖工具，並支援 Agent 操作。 (⭐ 1,834)
+  - [詳細說明](research-notes/storytold--lightcraft.md)
 
 ### 文檔和演示
 - **[holo-card-studio](https://github.com/EverettFish/holo-card-studio)** - 用 Codex Skill 製作全息卡牌、Blender 工程與互動頁面。 (⭐ 1,558)
