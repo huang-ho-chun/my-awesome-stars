@@ -219,6 +219,8 @@
 ## 🎨 設計與可視化工具
 
 ### 圖表和圖形
+- **[drawio-skill](https://github.com/Agents365-ai/drawio-skill)** - 將文字或專案資料轉成可編輯的 draw.io 圖，並支援同步更新與架構驗證。 (⭐ 10,002)
+  - [詳細說明](research-notes/Agents365-ai--drawio-skill.md)
 - **[lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts)** - 用 Agent Skill 把資料轉成 HTML 圖表或視覺報告。 (⭐ 5,470)
   - [詳細說明](research-notes/larashero3-dotcom--lieflat-charts.md)
 - **[fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)** - 依文字描述產生 SVG、PNG 架構圖與技術流程圖。 (⭐ 11,432)
@@ -363,6 +365,8 @@
 
 ## 🎬 視頻/音頻/內容生成
 
+- **[lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video)** - 用 Agent Skill 製作數位主持人或風格化解說影片，包含試片與成片驗證。 (⭐ 2,522)
+  - [詳細說明](research-notes/cclank--lanshu-create-ai-presenter-video.md)
 - **[OpenMontage](https://github.com/calesthio/OpenMontage)** - 用 AI Agent 規劃鏡頭、素材與剪輯的開源影片製作流程。 (⭐ 59,477)
   - [詳細說明](research-notes/calesthio--OpenMontage.md)
 - **[autoclip](https://github.com/zhouxiaoka/autoclip)** - 下載、切片並組合影音精華的 AI 輔助平台。 (⭐ 7,340)
@@ -486,4 +490,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-09-28
+**最後更新**：2026-10-08
