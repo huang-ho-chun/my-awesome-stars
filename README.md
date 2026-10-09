@@ -234,6 +234,8 @@
   - [詳細說明](research-notes/andyhuo520--aetherviz-master.md)
 
 ### 視覺內容
+- **[hand-drawn-styles](https://github.com/threerocks/hand-drawn-styles)** - 提供可重用的手繪畫風配方，讓 Agent 依內容產生生圖提示詞。 (⭐ 2,104)
+  - [詳細說明](research-notes/threerocks--hand-drawn-styles.md)
 - **[handraw-style](https://github.com/yang0/handraw-style)** - 用編號畫廊挑選手繪風格並產生對應提示詞。 (⭐ 1,972)
   - [詳細說明](research-notes/yang0--handraw-style.md)
 - **[ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** - 把中文文章內容轉成「小黑」風格正文插圖的 Skill。 (⭐ 11,722)
@@ -324,6 +326,8 @@
   - [詳細說明](research-notes/affaan-m--ECC.md)
 
 ### 代碼理解
+- **[REA](https://github.com/morluto/rea)** - 透過 MCP 與命令列分析應用、網站及執行檔，追查功能並附上證據。 (⭐ 27,048)
+  - [詳細說明](research-notes/morluto--rea.md)
 - **[codeflow](https://github.com/braedonsaunders/codeflow)** - 貼上 GitHub 網址即可查看程式依賴與影響範圍的架構圖。 (⭐ 5,207)
   - [詳細說明](research-notes/braedonsaunders--codeflow.md)
 - **[birdview](https://github.com/Qiuner/birdview)** - 讓 Coding Agent 在改程式前建立架構地圖並標出預計影響範圍的 Skill。 (⭐ 367)
@@ -364,6 +368,12 @@
 ---
 
 ## 🎬 視頻/音頻/內容生成
+- **[huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** - 讓 Agent 用程式製作藝術動畫與解說片段，提供畫風和動畫語法範例。 (⭐ 2,467)
+  - [詳細說明](research-notes/alchaincyf--huashu-art-motion.md)
+- **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - 支援多個網站的命令列影音下載工具，可選格式、字幕與輸出方式。 (⭐ 196,229)
+  - [詳細說明](research-notes/yt-dlp--yt-dlp.md)
+- **[MeTube](https://github.com/alexta69/metube)** - 在瀏覽器貼網址並以自架服務下載影音的 yt-dlp 網頁介面。 (⭐ 14,948)
+  - [詳細說明](research-notes/alexta69--metube.md)
 
 - **[lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video)** - 用 Agent Skill 製作數位主持人或風格化解說影片，包含試片與成片驗證。 (⭐ 2,522)
   - [詳細說明](research-notes/cclank--lanshu-create-ai-presenter-video.md)
@@ -429,6 +439,10 @@
 ## 🔧 其他實用工具
 
 ### 系統與應用
+- **[GameNative](https://github.com/utkarshdalal/GameNative)** - 在 Android 裝置本機執行已擁有的 PC 遊戲，並支援控制器與雲端存檔。 (⭐ 11,035)
+  - [詳細說明](research-notes/utkarshdalal--GameNative.md)
+- **[OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)** - 從影片或 webcam 擷取臉部特徵點、頭部姿態、動作單元及視線的研究工具。 (⭐ 7,783)
+  - [詳細說明](research-notes/TadasBaltrusaitis--OpenFace.md)
 - **[syncthing](https://github.com/syncthing/syncthing)** - 讓多台裝置持續同步檔案的開源工具。 (⭐ 88,644)
   - [詳細說明](research-notes/syncthing--syncthing.md)
 - **[harness](https://github.com/harness/harness)** - 整合程式碼託管與 DevOps 流水線的開源交付平台。 (⭐ 38,366)
@@ -490,4 +504,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-10-08
+**最後更新**：2026-10-09
