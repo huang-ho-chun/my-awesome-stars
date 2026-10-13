@@ -219,6 +219,8 @@
 ## 🎨 設計與可視化工具
 
 ### 圖表和圖形
+- **[SeeCode](https://github.com/Aryanutkarsh/SeeCode)** - 讓 Agent 將流程與資料做成可探索的動態圖，並匯出 HTML、圖片或影片。 (⭐ 421)
+  - [詳細說明](research-notes/Aryanutkarsh--SeeCode.md)
 - **[drawio-skill](https://github.com/Agents365-ai/drawio-skill)** - 將文字或專案資料轉成可編輯的 draw.io 圖，並支援同步更新與架構驗證。 (⭐ 10,002)
   - [詳細說明](research-notes/Agents365-ai--drawio-skill.md)
 - **[lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts)** - 用 Agent Skill 把資料轉成 HTML 圖表或視覺報告。 (⭐ 5,470)
@@ -504,4 +506,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-10-09
+**最後更新**：2026-10-13
