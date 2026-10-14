@@ -236,6 +236,8 @@
   - [詳細說明](research-notes/andyhuo520--aetherviz-master.md)
 
 ### 視覺內容
+- **[Anatomy](https://github.com/wheresryan22/anatomy)** - 用 Agent 製作解釋機械與技術概念的互動等角插圖，可輸出 HTML 或 SVG。 (⭐ 8,763)
+  - [詳細說明](research-notes/wheresryan22--anatomy.md)
 - **[hand-drawn-styles](https://github.com/threerocks/hand-drawn-styles)** - 提供可重用的手繪畫風配方，讓 Agent 依內容產生生圖提示詞。 (⭐ 2,104)
   - [詳細說明](research-notes/threerocks--hand-drawn-styles.md)
 - **[handraw-style](https://github.com/yang0/handraw-style)** - 用編號畫廊挑選手繪風格並產生對應提示詞。 (⭐ 1,972)
@@ -506,4 +508,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-10-13
+**最後更新**：2026-10-14
