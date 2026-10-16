@@ -236,6 +236,8 @@
   - [詳細說明](research-notes/andyhuo520--aetherviz-master.md)
 
 ### 視覺內容
+- **[Motion Prompt](https://github.com/showheyohtaki/motion-prompt)** - 用動態範例庫查找動畫、鏡頭與 UI 效果名稱，協助向 AI 精確描述畫面。 (⭐ 67)
+  - [詳細說明](research-notes/showheyohtaki--motion-prompt.md)
 - **[Anatomy](https://github.com/wheresryan22/anatomy)** - 用 Agent 製作解釋機械與技術概念的互動等角插圖，可輸出 HTML 或 SVG。 (⭐ 8,763)
   - [詳細說明](research-notes/wheresryan22--anatomy.md)
 - **[hand-drawn-styles](https://github.com/threerocks/hand-drawn-styles)** - 提供可重用的手繪畫風配方，讓 Agent 依內容產生生圖提示詞。 (⭐ 2,104)
@@ -372,6 +374,10 @@
 ---
 
 ## 🎬 視頻/音頻/內容生成
+- **[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** - 從主題生成腳本、素材、配音與字幕，合成短影片的自架工具。 (⭐ 131,878)
+  - [詳細說明](research-notes/harry0703--MoneyPrinterTurbo.md)
+- **[chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill)** - 引導 Agent 規劃人物與章節，逐章撰寫並檢查中文長篇小說。 (⭐ 3,865)
+  - [詳細說明](research-notes/PenglongHuang--chinese-novelist-skill.md)
 - **[huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)** - 讓 Agent 用程式製作藝術動畫與解說片段，提供畫風和動畫語法範例。 (⭐ 2,467)
   - [詳細說明](research-notes/alchaincyf--huashu-art-motion.md)
 - **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - 支援多個網站的命令列影音下載工具，可選格式、字幕與輸出方式。 (⭐ 196,229)
@@ -403,6 +409,8 @@
 ---
 
 ## 💰 金融與投資
+- **[Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)** - 彙整量化交易與金融機器學習的書籍、課程、論文及程式資源。 (⭐ 4,062)
+  - [詳細說明](research-notes/grananqvist--Awesome-Quant-Machine-Learning-Trading.md)
 
 - **[qlib](https://github.com/microsoft/qlib)** - 涵蓋資料準備、模型訓練與回測的量化投資研究平台。 (⭐ 48,606)
   - [詳細說明](research-notes/microsoft--qlib.md)
@@ -508,4 +516,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-10-14
+**最後更新**：2026-10-16
