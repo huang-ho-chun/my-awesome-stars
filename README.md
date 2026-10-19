@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-10-07
+**最後更新**：2026-10-19
 
 ---
 
@@ -23,6 +23,8 @@
 ## 🤖 AI Agent & 大模型
 
 ### 框架/引擎
+- **[Harness²](https://github.com/google-research/harness2)** - 讓固定模型的 Agent 在任務中試改 Prompt、工具與 Skill 等 Harness 元件，並依執行證據保留改進。 (⭐ 7,151)
+  - [詳細說明](research-notes/google-research--harness2.md)
 - **[Langflow](https://github.com/langflow-ai/langflow)** - 用圖形介面串接模型、資料與工具，建立可部署的 AI Agent 工作流程。 (⭐ 154,880)
   - [詳細說明](research-notes/langflow-ai--langflow.md)
 - **[DSPy](https://github.com/stanfordnlp/dspy)** - 以 Python 定義並評估 LLM 流程，再最佳化提示與模型設定。 (⭐ 38,065)
@@ -39,6 +41,8 @@
   - [詳細說明](research-notes/fathah--hermes-desktop.md)
 
 ### Agent 工具
+- **[Agency Agents](https://github.com/msitarzewski/agency-agents)** - 收錄工程、設計、研究等專職 AI Agent 指引，可挑選角色安裝到 Codex 等工具或當範本參考。 (⭐ 161,239)
+  - [詳細說明](research-notes/msitarzewski--agency-agents.md)
 - **[context-mode](https://github.com/mksglu/context-mode)** - 縮減 Coding Agent 工具輸出占用的上下文，保留可查詢內容。 (⭐ 23,185)
   - [詳細說明](research-notes/mksglu--context-mode.md)
 - **[codex-skill-dashboard](https://github.com/tonywei49/codex-skill-dashboard)** - 在本機查看 Codex Skills 啟用狀態與使用紀錄，並管理暫停、說明翻譯和統計。 (⭐ 4)
@@ -149,6 +153,8 @@
 ## 📚 學習資源與教程
 
 ### AI 基礎
+- **[30u30](https://github.com/Ojhaharsh/30u30)** - 以 30 天的閱讀筆記、Notebook、從零實作與練習，引導學習 30 篇重要 AI 論文。 (⭐ 1,066)
+  - [詳細說明](research-notes/Ojhaharsh--30u30.md)
 - **[generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** - 微軟的 21 課生成式 AI 入門課程，兼顧概念與實作。 (⭐ 119,863)
   - [詳細說明](research-notes/microsoft--generative-ai-for-beginners.md)
 - **[Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs)** - 浙江大學團隊編寫、涵蓋模型原理與 RAG 的中文教材。 (⭐ 17,893)
@@ -161,6 +167,8 @@
   - [詳細說明](research-notes/microsoft--AI-For-Beginners.md)
 
 ### Agent 專業
+- **[AI Agent Handbook](https://github.com/aliyun/ai-agent-handbook)** - 阿里雲的開源 Agent 白皮書，整理架構、建構、運行、治理、評估及企業案例。 (⭐ 2,076)
+  - [詳細說明](research-notes/aliyun--ai-agent-handbook.md)
 - **[ai-agent-book](https://github.com/bojieli/ai-agent-book)** - 從 Agent 設計原理到工程實作的中文開源書與實驗。 (⭐ 47,959)
   - [詳細說明](research-notes/bojieli--ai-agent-book.md)
 - **[awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)** - 繁體中文 Agent 學習路線圖，含工具使用與建構者路線。 (⭐ 7,034)
@@ -267,6 +275,8 @@
 ## 🔍 RAG & 知識管理
 
 ### RAG 引擎
+- **[DeepSearcher](https://github.com/zilliztech/deep-searcher)** - 把私有文件載入向量資料庫，結合檢索與 LLM 查詢、產生研究式回答的 Python 工具。 (⭐ 8,345)
+  - [詳細說明](research-notes/zilliztech--deep-searcher.md)
 - **[ragflow](https://github.com/infiniflow/ragflow)** - 可自架的 RAG 問答平台，整合文件解析、檢索與引用。 (⭐ 90,810)
   - [詳細說明](research-notes/infiniflow--ragflow.md)
 - **[LEANN](https://github.com/StarTrail-org/LEANN)** - 節省索引儲存空間的本機向量檢索與個人 RAG 工具。 (⭐ 12,941)
@@ -275,6 +285,8 @@
   - [詳細說明](research-notes/supermemoryai--supermemory.md)
 
 ### 知識庫管理
+- **[史記知識庫](https://github.com/baojie/shiji-kb)** - 將《史記》人物、事件與地點標註並連成可跳轉、可搜尋的互動閱讀與知識圖譜。 (⭐ 3,469)
+  - [詳細說明](research-notes/baojie--shiji-kb.md)
 - **[llm_wiki](https://github.com/nashsu/llm_wiki)** - 匯入文件並持續建立連結與知識圖譜的桌面知識庫。 (⭐ 19,632)
   - [詳細說明](research-notes/nashsu--llm_wiki.md)
 - **[obsidian-llm-wiki](https://github.com/GD4AI/obsidian-llm-wiki)** - 在 Obsidian 中用 AI 建立來源、概念頁與筆記連結的外掛。 (⭐ 626)
@@ -516,4 +528,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-10-16
+**最後更新**：2026-10-19
