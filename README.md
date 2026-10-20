@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-10-19
+**最後更新**：2026-10-20
 
 ---
 
@@ -78,6 +78,8 @@
   - [詳細說明](research-notes/microsoft--VibeVoice.md)
 
 ### Agent Skills
+- **[Project Scaffold](https://github.com/kenming/project-scaffold-skill)** - 預覽並調整 Agent 規範與專案文件骨架，確認後才建立檔案。 (⭐ 14)
+  - [詳細說明](research-notes/kenming--project-scaffold-skill.md)
 - **[archify](https://github.com/tt-a1i/archify)** - 將程式碼或系統描述轉成可檢查的互動架構圖。 (⭐ 64,422)
   - [詳細說明](research-notes/tt-a1i--archify.md)
 - **[diagram-design](https://github.com/cathrynlavery/diagram-design)** - 提供多種圖解類型與視覺規則的 Agent Skill。 (⭐ 40,413)
@@ -528,4 +530,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-10-19
+**最後更新**：2026-10-20
