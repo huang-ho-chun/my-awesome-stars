@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-10-20
+**最後更新**：2026-10-26
 
 ---
 
@@ -193,6 +193,8 @@
   - [詳細說明](research-notes/microsoft--ai-agents-for-beginners.md)
 
 ### 自我提升
+- **[高性價比人生指南](https://github.com/eternity4719/HowToLiveBetter)** - 按健康、時間、金錢、法律與生活主題整理行動建議，標示成本、證據等級及來源。 (⭐ 69,082)
+  - [詳細說明](research-notes/eternity4719--HowToLiveBetter.md)
 - **[the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)** - 用 Python 與寫作練習建立自學能力的開放教材。 (⭐ 16,819)
   - [詳細說明](research-notes/selfteaching--the-craft-of-selfteaching.md)
 - **[xiaolai/the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching)** - 李笑來《自學是門手藝》的早期 Notebook 倉庫，結合自學方法與 Python 練習。 (⭐ 17,210)
@@ -229,6 +231,8 @@
 ## 🎨 設計與可視化工具
 
 ### 圖表和圖形
+- **[江山時序](https://github.com/DeanChensj/jiangshan-map)** - 以互動地圖與時間軸探索中國歷代疆域、古今地名、人物行跡與詩文路線。 (⭐ 1,414)
+  - [詳細說明](research-notes/DeanChensj--jiangshan-map.md)
 - **[SeeCode](https://github.com/Aryanutkarsh/SeeCode)** - 讓 Agent 將流程與資料做成可探索的動態圖，並匯出 HTML、圖片或影片。 (⭐ 421)
   - [詳細說明](research-notes/Aryanutkarsh--SeeCode.md)
 - **[drawio-skill](https://github.com/Agents365-ai/drawio-skill)** - 將文字或專案資料轉成可編輯的 draw.io 圖，並支援同步更新與架構驗證。 (⭐ 10,002)
@@ -346,6 +350,8 @@
   - [詳細說明](research-notes/affaan-m--ECC.md)
 
 ### 代碼理解
+- **[Graphify](https://github.com/Graphify-Labs/graphify)** - 在本機解析程式碼及文件，建立可查詢的關係圖，供 Coding Agent 追查呼叫路徑與系統脈絡。 (⭐ 135,384)
+  - [詳細說明](research-notes/Graphify-Labs--graphify.md)
 - **[REA](https://github.com/morluto/rea)** - 透過 MCP 與命令列分析應用、網站及執行檔，追查功能並附上證據。 (⭐ 27,048)
   - [詳細說明](research-notes/morluto--rea.md)
 - **[codeflow](https://github.com/braedonsaunders/codeflow)** - 貼上 GitHub 網址即可查看程式依賴與影響範圍的架構圖。 (⭐ 5,207)
@@ -388,6 +394,10 @@
 ---
 
 ## 🎬 視頻/音頻/內容生成
+- **[Translation Gateway](https://github.com/rictirse/TranslationGateway)** - 配合 PotPlayer 與自選 LLM，將日文影片或直播字幕即時轉成繁體中文，並管理術語及修正紀錄。 (⭐ 23)
+  - [詳細說明](research-notes/rictirse--TranslationGateway.md)
+- **[Concat](https://github.com/jub0t/Concat)** - 可在 Windows 等平台本機剪輯影片，提供多軌時間軸、自動字幕、配音、去背與 4K 輸出，也能用 MCP 操作。 (⭐ 11,570)
+  - [詳細說明](research-notes/jub0t--Concat.md)
 - **[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** - 從主題生成腳本、素材、配音與字幕，合成短影片的自架工具。 (⭐ 131,878)
   - [詳細說明](research-notes/harry0703--MoneyPrinterTurbo.md)
 - **[chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill)** - 引導 Agent 規劃人物與章節，逐章撰寫並檢查中文長篇小說。 (⭐ 3,865)
@@ -492,6 +502,8 @@
   - [詳細說明](research-notes/JOYCEQL--magic-resume.md)
 
 ### 其他
+- **[紫微斗數排盤引擎](https://github.com/Renhuai123/ziwei-doushu)** - 開源紫微斗數排盤演算法、古籍資料與示範介面，可查看命盤及研究不同排盤口徑。 (⭐ 7,796)
+  - [詳細說明](research-notes/Renhuai123--ziwei-doushu.md)
 - **[airi](https://github.com/moeru-ai/airi)** - 結合文字、語音與角色視覺的開源 AI 陪伴互動專案。 (⭐ 49,181)
   - [詳細說明](research-notes/moeru-ai--airi.md)
 - **[up](https://github.com/byoungd/up)** - 持續更新的人生、學習與 AI 時代實作主題中文書稿。 (⭐ 62,840)
@@ -530,4 +542,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-10-20
+**最後更新**：2026-10-26
