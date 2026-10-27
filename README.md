@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-10-26
+**最後更新**：2026-10-27
 
 ---
 
@@ -394,6 +394,8 @@
 ---
 
 ## 🎬 視頻/音頻/內容生成
+- **[小說工作台 Novel Studio](https://github.com/yamasoo/novel-studio)** - 用本機介面與可選 AI 維護繁體中文長篇小說的設定、章綱、候選稿、伏筆及匯出流程。 (⭐ 4)
+  - [詳細說明](research-notes/yamasoo--novel-studio.md)
 - **[Translation Gateway](https://github.com/rictirse/TranslationGateway)** - 配合 PotPlayer 與自選 LLM，將日文影片或直播字幕即時轉成繁體中文，並管理術語及修正紀錄。 (⭐ 23)
   - [詳細說明](research-notes/rictirse--TranslationGateway.md)
 - **[Concat](https://github.com/jub0t/Concat)** - 可在 Windows 等平台本機剪輯影片，提供多軌時間軸、自動字幕、配音、去背與 4K 輸出，也能用 MCP 操作。 (⭐ 11,570)
@@ -542,4 +544,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-10-26
+**最後更新**：2026-10-27
