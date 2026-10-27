@@ -398,8 +398,16 @@
   - [詳細說明](research-notes/yamasoo--novel-studio.md)
 - **[Translation Gateway](https://github.com/rictirse/TranslationGateway)** - 配合 PotPlayer 與自選 LLM，將日文影片或直播字幕即時轉成繁體中文，並管理術語及修正紀錄。 (⭐ 23)
   - [詳細說明](research-notes/rictirse--TranslationGateway.md)
-- **[Concat](https://github.com/jub0t/Concat)** - 可在 Windows 等平台本機剪輯影片，提供多軌時間軸、自動字幕、配音、去背與 4K 輸出，也能用 MCP 操作。 (⭐ 11,570)
+
+### 開源影片剪輯與 AI 剪片
+- **[AutoClip](https://github.com/zhouxiaoka/autoclip)** - AI 自動分析長影片、找出值得剪的片段，產生短影音、字幕、封面與發布文案；適合 Podcast、訪談與 YouTube 長片再利用。 (⭐ 9,765)
+  - [詳細說明](research-notes/zhouxiaoka--autoclip.md)
+- **[Concat](https://github.com/jub0t/Concat)** - Local-first 的開源 CapCut 替代品，提供多軌時間軸、自動字幕、配音、去背、4K 輸出，並支援 MCP 與 JSON-RPC；目前 Beta 但已能實際使用。 (⭐ 11,852)
   - [詳細說明](research-notes/jub0t--Concat.md)
+- **[OpenCut](https://github.com/OpenCut-app/OpenCut)** - 開源 CapCut 替代方案；新版正在從頭重寫，規劃 Plugin-first、Editor API、MCP、Headless 與 Scripting，現階段較適合收藏追蹤。 (⭐ 96,419)
+  - [詳細說明](research-notes/OpenCut-app--OpenCut.md)
+- **[AutoClip vs Concat vs OpenCut：三者比較與選擇指南](research-notes/comparison--AutoClip-vs-Concat-vs-OpenCut.md)** - AutoClip 偏 AI 自動選精華；Concat 偏現在可用的本機完整剪輯器；OpenCut 偏未來可擴充、可程式化的剪輯平台。
+
 - **[MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** - 從主題生成腳本、素材、配音與字幕，合成短影片的自架工具。 (⭐ 131,878)
   - [詳細說明](research-notes/harry0703--MoneyPrinterTurbo.md)
 - **[chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill)** - 引導 Agent 規劃人物與章節，逐章撰寫並檢查中文長篇小說。 (⭐ 3,865)
@@ -415,12 +423,8 @@
   - [詳細說明](research-notes/cclank--lanshu-create-ai-presenter-video.md)
 - **[OpenMontage](https://github.com/calesthio/OpenMontage)** - 用 AI Agent 規劃鏡頭、素材與剪輯的開源影片製作流程。 (⭐ 59,477)
   - [詳細說明](research-notes/calesthio--OpenMontage.md)
-- **[autoclip](https://github.com/zhouxiaoka/autoclip)** - 下載、切片並組合影音精華的 AI 輔助平台。 (⭐ 7,340)
-  - [詳細說明](research-notes/zhouxiaoka--autoclip.md)
 - **[Echo-Loop](https://github.com/echo-loop/Echo-Loop)** - 以精聽、跟讀、復述與複習練習英語聽說的 App。 (⭐ 3,546)
   - [詳細說明](research-notes/echo-loop--Echo-Loop.md)
-- **[OpenCut](https://github.com/OpenCut-app/OpenCut)** - 開源影片編輯器；新版本重寫中，目前可用 Classic 版。 (⭐ 89,580)
-  - [詳細說明](research-notes/OpenCut-app--OpenCut.md)
 - **[VidBee](https://github.com/nexmoe/VidBee)** - 提供影音下載、RSS 追蹤與本機語音轉錄的應用程式。 (⭐ 10,647)
   - [詳細說明](research-notes/nexmoe--VidBee.md)
 - **[wenyi](https://github.com/BigDawnGhost/wenyi)** - 維護術語與全書脈絡的長篇書籍 AI 翻譯工具。 (⭐ 2,602)
