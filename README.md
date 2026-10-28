@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-10-27
+**最後更新**：2026-10-28
 
 ---
 
@@ -23,6 +23,8 @@
 ## 🤖 AI Agent & 大模型
 
 ### 框架/引擎
+- **[3dcodeverse](https://github.com/gaoypeng/3dcodeverse)** - 提供讓 Agent 以規劃、執行與視覺回饋製作 3D 資產的研究框架與資料集。 (⭐ 251)
+  - [詳細說明](research-notes/gaoypeng--3dcodeverse.md)
 - **[Harness²](https://github.com/google-research/harness2)** - 讓固定模型的 Agent 在任務中試改 Prompt、工具與 Skill 等 Harness 元件，並依執行證據保留改進。 (⭐ 7,151)
   - [詳細說明](research-notes/google-research--harness2.md)
 - **[Langflow](https://github.com/langflow-ai/langflow)** - 用圖形介面串接模型、資料與工具，建立可部署的 AI Agent 工作流程。 (⭐ 154,880)
@@ -64,6 +66,8 @@
   - [詳細說明](research-notes/aiming-lab--SimpleMem.md)
 
 ### 多模態
+- **[JoyAI-Image](https://github.com/jd-opensource/JoyAI-Image)** - 整合圖片理解、文字生圖與指令式修圖的多模態模型專案。 (⭐ 2,220)
+  - [詳細說明](research-notes/jd-opensource--JoyAI-Image.md)
 - **[CosyVoice](https://github.com/QwenAudio/CosyVoice)** - 提供多語言語音生成與參考聲音複製的模型專案。 (⭐ 23,641)
   - [詳細說明](research-notes/QwenAudio--CosyVoice.md)
 - **[Seedance 2.0](https://github.com/Emily2040/seedance-2.0)** - 規劃影片分鏡與參考素材的 Agent Skill，生成需外部服務。 (⭐ 7,342)
@@ -78,6 +82,8 @@
   - [詳細說明](research-notes/microsoft--VibeVoice.md)
 
 ### Agent Skills
+- **[Elephant-Goldfish Model](https://github.com/google/elephant-goldfish-model)** - 以深度專案脈絡起草規格，並交由全新脈絡 Agent 審查盲點的設計 Skills。 (⭐ 3,521)
+  - [詳細說明](research-notes/google--elephant-goldfish-model.md)
 - **[Project Scaffold](https://github.com/kenming/project-scaffold-skill)** - 預覽並調整 Agent 規範與專案文件骨架，確認後才建立檔案。 (⭐ 14)
   - [詳細說明](research-notes/kenming--project-scaffold-skill.md)
 - **[archify](https://github.com/tt-a1i/archify)** - 將程式碼或系統描述轉成可檢查的互動架構圖。 (⭐ 64,422)
@@ -193,6 +199,14 @@
   - [詳細說明](research-notes/microsoft--ai-agents-for-beginners.md)
 
 ### 自我提升
+- **[DeepTutor](https://github.com/HKUDS/DeepTutor)** - 可匯入個人資料、安排學習路徑、練習與對話的開源 AI 家教平台。 (⭐ 46,359)
+  - [詳細說明](research-notes/HKUDS--DeepTutor.md)
+- **[詞光 Word Atlas](https://github.com/designfuchen/word-atlas)** - 以插畫、發音、語境與間隔複習學習雅思詞彙的本機優先網站。 (⭐ 2,715)
+  - [詳細說明](research-notes/designfuchen--word-atlas.md)
+- **[WordLink](https://github.com/orionsheep/wordlink)** - 用詞彙關係圖、測驗與分級閱讀來記單字的開源英語學習工具。 (⭐ 245)
+  - [詳細說明](research-notes/orionsheep--wordlink.md)
+- **[book-en](https://github.com/craig7351/book-en)** - 可在桌面上用 YouTube 雙語字幕、逐句重播、查詞與間隔複習學英文的工具。 (⭐ 6)
+  - [詳細說明](research-notes/craig7351--book-en.md)
 - **[高性價比人生指南](https://github.com/eternity4719/HowToLiveBetter)** - 按健康、時間、金錢、法律與生活主題整理行動建議，標示成本、證據等級及來源。 (⭐ 69,082)
   - [詳細說明](research-notes/eternity4719--HowToLiveBetter.md)
 - **[the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)** - 用 Python 與寫作練習建立自學能力的開放教材。 (⭐ 16,819)
@@ -231,6 +245,8 @@
 ## 🎨 設計與可視化工具
 
 ### 圖表和圖形
+- **[figures4papers](https://github.com/ChenLiu-1996/figures4papers)** - 收錄論文等級圖表的 Python 程式、範例與科學製圖 Agent Skill。 (⭐ 9,263)
+  - [詳細說明](research-notes/ChenLiu-1996--figures4papers.md)
 - **[江山時序](https://github.com/DeanChensj/jiangshan-map)** - 以互動地圖與時間軸探索中國歷代疆域、古今地名、人物行跡與詩文路線。 (⭐ 1,414)
   - [詳細說明](research-notes/DeanChensj--jiangshan-map.md)
 - **[SeeCode](https://github.com/Aryanutkarsh/SeeCode)** - 讓 Agent 將流程與資料做成可探索的動態圖，並匯出 HTML、圖片或影片。 (⭐ 421)
@@ -250,6 +266,10 @@
   - [詳細說明](research-notes/andyhuo520--aetherviz-master.md)
 
 ### 視覺內容
+- **[claude-pxl](https://github.com/augusto-scarvalho/claude-pxl)** - 用程式描述像素藝術，並輸出 PNG、動畫與素材表的創作工具。 (⭐ 207)
+  - [詳細說明](research-notes/augusto-scarvalho--claude-pxl.md)
+- **[mesh-avatar-studio](https://github.com/shinshin86/mesh-avatar-studio)** - 把單張插圖變成可用臉部或聲音驅動的 2D 網格角色。 (⭐ 1,287)
+  - [詳細說明](research-notes/shinshin86--mesh-avatar-studio.md)
 - **[Motion Prompt](https://github.com/showheyohtaki/motion-prompt)** - 用動態範例庫查找動畫、鏡頭與 UI 效果名稱，協助向 AI 精確描述畫面。 (⭐ 67)
   - [詳細說明](research-notes/showheyohtaki--motion-prompt.md)
 - **[Anatomy](https://github.com/wheresryan22/anatomy)** - 用 Agent 製作解釋機械與技術概念的互動等角插圖，可輸出 HTML 或 SVG。 (⭐ 8,763)
@@ -400,6 +420,22 @@
   - [詳細說明](research-notes/rictirse--TranslationGateway.md)
 
 ### 開源影片剪輯與 AI 剪片
+- **[ReelMimic](https://github.com/edenfunf/reelmimic)** - 分析參考影片的節奏與畫風，再用 Codex 或 Claude Code 製作新的 2D 動畫。 (⭐ 239)
+  - [詳細說明](research-notes/edenfunf--reelmimic.md)
+- **[VoiceStudio](https://github.com/debpalash/VoiceStudio)** - 可在本機配音、轉錄、聲音設計與影片配音的跨平台語音工作室。 (⭐ 91,692)
+  - [詳細說明](research-notes/debpalash--VoiceStudio.md)
+- **[ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase)** - 用 p5.js、p5.brush 與角色素材，讓 Coding Agent 製作手繪卡通影片的起始套件。 (⭐ 2,172)
+  - [詳細說明](research-notes/JohnHeibel--ClaudeAnimationBase.md)
+- **[mg-styles-15](https://github.com/Vincentwei1021/mg-styles-15)** - 展示 15 種程式製作的 10 秒動態設計影片，附提示詞與完整來源。 (⭐ 2,460)
+  - [詳細說明](research-notes/Vincentwei1021--mg-styles-15.md)
+- **[video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** - 用 Codex 或 Claude Code 的 Skill，將真實產品截圖製成可編輯的宣傳短片。 (⭐ 14,162)
+  - [詳細說明](research-notes/Vincentwei1021--video-shotcraft.md)
+- **[HyperFrames](https://github.com/heygen-com/hyperframes)** - 讓 Coding Agent 以 HTML 與網頁元件製作、預覽及渲染影片的框架。 (⭐ 74,077)
+  - [詳細說明](research-notes/heygen-com--hyperframes.md)
+- **[lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar)** - 提供 59 種可套用與自訂的程式製片風格，供 Claude Code 製作影片。 (⭐ 8,769)
+  - [詳細說明](research-notes/lemomo-ai--lemo-opuscar.md)
+- **[animate](https://github.com/cth9191/animate)** - 讓 Claude Code 依分鏡與風格提示，製作可輸出 MP4 的程式動畫 Skill。 (⭐ 1,019)
+  - [詳細說明](research-notes/cth9191--animate.md)
 - **[AutoClip](https://github.com/zhouxiaoka/autoclip)** - AI 自動分析長影片、找出值得剪的片段，產生短影音、字幕、封面與發布文案；適合 Podcast、訪談與 YouTube 長片再利用。 (⭐ 9,765)
   - [詳細說明](research-notes/zhouxiaoka--autoclip.md)
 - **[Concat](https://github.com/jub0t/Concat)** - Local-first 的開源 CapCut 替代品，提供多軌時間軸、自動字幕、配音、去背、4K 輸出，並支援 MCP 與 JSON-RPC；目前 Beta 但已能實際使用。 (⭐ 11,852)
@@ -508,6 +544,8 @@
   - [詳細說明](research-notes/JOYCEQL--magic-resume.md)
 
 ### 其他
+- **[Video-shortcraft](https://github.com/carlosciarrinovideo1-svg/Video-shortcraft)** - 名稱像影片工具，但目前 README 與檔案實際介紹 PentestGPT 滲透測試工具；用途需再核實。 (⭐ 17)
+  - [詳細說明](research-notes/carlosciarrinovideo1-svg--Video-shortcraft.md)
 - **[紫微斗數排盤引擎](https://github.com/Renhuai123/ziwei-doushu)** - 開源紫微斗數排盤演算法、古籍資料與示範介面，可查看命盤及研究不同排盤口徑。 (⭐ 7,796)
   - [詳細說明](research-notes/Renhuai123--ziwei-doushu.md)
 - **[airi](https://github.com/moeru-ai/airi)** - 結合文字、語音與角色視覺的開源 AI 陪伴互動專案。 (⭐ 49,181)
@@ -536,7 +574,7 @@
 
 ## 📊 統計數據
 
-- **Total Stars**: 160+ repositories
+- **Total Stars**: 220 repositories
 - **Highest Stars**: awesome (506,592 ⭐)
 - **Main Categories**: AI/Agent (40%), Learning Resources (15%), Design & Visualization (15%), RAG & Knowledge (10%), Tools (20%)
 
@@ -548,4 +586,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-10-27
+**最後更新**：2026-10-28
