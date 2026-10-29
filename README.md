@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-10-28
+**最後更新**：2026-10-29
 
 ---
 
@@ -43,6 +43,10 @@
   - [詳細說明](research-notes/fathah--hermes-desktop.md)
 
 ### Agent 工具
+- **[Prompt Optimizer](https://github.com/linshenkx/prompt-optimizer)** - 提供提示詞改寫、測試與比較的網頁及桌面工具，幫助整理可重用的 Prompt。 (⭐ 39,633)
+  - [詳細說明](research-notes/linshenkx--prompt-optimizer.md)
+- **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** - 為軟體建立可讓 AI Agent 呼叫的命令列介面，也提供現成 CLI 的搜尋與安裝入口。 (⭐ 57,611)
+  - [詳細說明](research-notes/HKUDS--CLI-Anything.md)
 - **[Agency Agents](https://github.com/msitarzewski/agency-agents)** - 收錄工程、設計、研究等專職 AI Agent 指引，可挑選角色安裝到 Codex 等工具或當範本參考。 (⭐ 161,239)
   - [詳細說明](research-notes/msitarzewski--agency-agents.md)
 - **[context-mode](https://github.com/mksglu/context-mode)** - 縮減 Coding Agent 工具輸出占用的上下文，保留可查詢內容。 (⭐ 23,185)
@@ -385,6 +389,8 @@
   - [詳細說明](research-notes/trailhq--Graft.md)
 
 ### 內容提取與爬蟲
+- **[ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** - 以 Python 與 LLM 從網站或本機文件擷取指定欄位的資料擷取工具。 (⭐ 32,316)
+  - [詳細說明](research-notes/ScrapeGraphAI--Scrapegraph-ai.md)
 - **[crawl4ai](https://github.com/unclecode/crawl4ai)** - 將網頁擷取、清理成適合 LLM 使用的 Markdown。 (⭐ 83,663)
   - [詳細說明](research-notes/unclecode--crawl4ai.md)
 - **[Scrapling](https://github.com/D4Vinci/Scrapling)** - 支援動態頁面與爬行流程的 Python 網頁擷取框架。 (⭐ 81,343)
@@ -517,6 +523,10 @@
 ## 🔧 其他實用工具
 
 ### 系統與應用
+- **[Coreutils for Windows](https://github.com/microsoft/coreutils)** - 在 Windows 原生終端使用常見 Unix 指令，方便沿用 Linux、macOS 的腳本與操作習慣。 (⭐ 5,335)
+  - [詳細說明](research-notes/microsoft--coreutils.md)
+- **[FoodKcalNotes](https://github.com/brian901106/FoodKcalNotes)** - 在本機記錄餐點，利用 AI 辨識食物與份量，並以可核對的資料計算熱量。 (⭐ 8)
+  - [詳細說明](research-notes/brian901106--FoodKcalNotes.md)
 - **[GameNative](https://github.com/utkarshdalal/GameNative)** - 在 Android 裝置本機執行已擁有的 PC 遊戲，並支援控制器與雲端存檔。 (⭐ 11,035)
   - [詳細說明](research-notes/utkarshdalal--GameNative.md)
 - **[OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)** - 從影片或 webcam 擷取臉部特徵點、頭部姿態、動作單元及視線的研究工具。 (⭐ 7,783)
@@ -574,7 +584,7 @@
 
 ## 📊 統計數據
 
-- **Total Stars**: 220 repositories
+- **Total Stars**: 225 repositories
 - **Highest Stars**: awesome (506,592 ⭐)
 - **Main Categories**: AI/Agent (40%), Learning Resources (15%), Design & Visualization (15%), RAG & Knowledge (10%), Tools (20%)
 
@@ -586,4 +596,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-10-28
+**最後更新**：2026-10-29
