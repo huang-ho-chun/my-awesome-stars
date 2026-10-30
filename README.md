@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-10-29
+**最後更新**：2026-10-30
 
 ---
 
@@ -231,6 +231,8 @@
   - [詳細說明](research-notes/xdash--FDE-the-Guidance-Book-of-Forward-Deployed-Engineer.md)
 
 ### 系統設計
+- **[The System Design Primer](https://github.com/donnemartin/system-design-primer)** - 整理大型系統設計觀念、學習路線與附解答的面試練習。 (⭐ 376,170)
+  - [詳細說明](research-notes/donnemartin--system-design-primer.md)
 - **[system-design-notes](https://github.com/liquidslr/system-design-notes)** - 整理《System Design Interview》題目與觀念的非官方筆記。 (⭐ 20,018)
   - [詳細說明](research-notes/liquidslr--system-design-notes.md)
 
@@ -584,7 +586,7 @@
 
 ## 📊 統計數據
 
-- **Total Stars**: 225 repositories
+- **Total Stars**: 226 repositories
 - **Highest Stars**: awesome (506,592 ⭐)
 - **Main Categories**: AI/Agent (40%), Learning Resources (15%), Design & Visualization (15%), RAG & Knowledge (10%), Tools (20%)
 
@@ -596,4 +598,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-10-29
+**最後更新**：2026-10-30
