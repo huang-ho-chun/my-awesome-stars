@@ -1,5 +1,7 @@
 # 分類詳解
 
+> 分類原則：**每個 GitHub repository 只在 README 主清單出現一次**。若一個專案同時符合多個分類，放在「主要用途」最符合的分類；其他分類可在描述中交叉提及，但不重複列出同一 repo。
+
 ## 🤖 AI Agent & 大模型
 
 本分類涵蓋與 AI Agent、大型語言模型（LLM）相關的工具、框架和 Skills。
@@ -23,7 +25,7 @@
 
 ### 包含內容：
 - **AI 基礎**: LLM 原理、基礎知識
-- **Agent 專業**: Agent 設計模式、���程實踐
+- **Agent 專業**: Agent 設計模式、工程實踐
 - **自我提升**: 職業發展、學習方法論
 - **系統設計**: 架構和系統設計教程
 
@@ -48,6 +50,8 @@
 - 為 AI Agent 生成專業圖表
 - 創建視覺化技術文檔
 - 製作演示文稿和教材
+
+> 若某個專案本質上是「Agent Skill」，即使輸出是圖表、PPT 或視覺內容，原則上仍放在「AI Agent & 大模型 → Agent Skills」，避免跨分類重複。
 
 ---
 
@@ -125,3 +129,15 @@ Retrieval-Augmented Generation（RAG）和知識庫管理工具。
 - 文件同步
 - 簡歷生成
 - 開發環境
+
+---
+
+## 去重規則
+
+維護 README 時，以 repository URL（`https://github.com/<owner>/<repo>`）作為唯一識別鍵：
+
+1. 同一 URL 只能出現一次。
+2. 同名但不同 owner 視為不同 repository，不合併。
+3. Fork、重製版或中文化版本，只要 URL 不同且用途有差異，可分別保留。
+4. 跨分類專案只保留在主要用途分類，不因「也能做某件事」而再次列出。
+5. 比較文章或 research note 不算 repository 條目，可保留交叉連結。
