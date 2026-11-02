@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-10-30
+**最後更新**：2026-11-02
 
 ---
 
@@ -428,6 +428,8 @@
   - [詳細說明](research-notes/rictirse--TranslationGateway.md)
 
 ### 開源影片剪輯與 AI 剪片
+- **[mv-director](https://github.com/Yari-tuber/mv-director)** - 讓 Codex 或 Claude Code 分析歌曲節拍與逐字歌詞，依分鏡用 Canvas 程式繪圖製作並驗收卡點音樂 MV。 (⭐ 24)
+  - [詳細說明](research-notes/Yari-tuber--mv-director.md)
 - **[ReelMimic](https://github.com/edenfunf/reelmimic)** - 分析參考影片的節奏與畫風，再用 Codex 或 Claude Code 製作新的 2D 動畫。 (⭐ 239)
   - [詳細說明](research-notes/edenfunf--reelmimic.md)
 - **[VoiceStudio](https://github.com/debpalash/VoiceStudio)** - 可在本機配音、轉錄、聲音設計與影片配音的跨平台語音工作室。 (⭐ 91,692)
@@ -586,7 +588,7 @@
 
 ## 📊 統計數據
 
-- **Total Stars**: 226 repositories
+- **Total Stars**: 227 repositories
 - **Highest Stars**: awesome (506,592 ⭐)
 - **Main Categories**: AI/Agent (40%), Learning Resources (15%), Design & Visualization (15%), RAG & Knowledge (10%), Tools (20%)
 
@@ -598,4 +600,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-10-30
+**最後更新**：2026-11-02
