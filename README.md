@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-11-02
+**最後更新**：2026-11-03
 
 ---
 
@@ -237,6 +237,8 @@
   - [詳細說明](research-notes/liquidslr--system-design-notes.md)
 
 ### 其他教程
+- **[Atlas of Physics](https://github.com/nathanliow/atlas-of-physics)** - 以可捲動、可拆解的 3D 圖解與練習題，互動呈現 AP Physics 1 及 AP Physics C 的力學與電磁學概念。 (⭐ 373)
+  - [詳細說明](research-notes/nathanliow--atlas-of-physics.md)
 - **[agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch)** - 以郵件助理範例學習 Agent、評估、人工確認與記憶。 (⭐ 2,225)
   - [詳細說明](research-notes/langchain-ai--agents-from-scratch.md)
 - **[rlhf-book-zh-tw](https://github.com/ai-twinkle/rlhf-book-zh-tw)** - 《Reinforcement Learning from Human Feedback》繁體中文譯本。 (⭐ 179)
@@ -272,6 +274,10 @@
   - [詳細說明](research-notes/andyhuo520--aetherviz-master.md)
 
 ### 視覺內容
+- **[pixelfx](https://github.com/patch-gg/pixelfx)** - 提供 244 個以 JavaScript 程式繪製的像素特效與動作，可直接用於網頁遊戲或匯出 Sprite Sheet，並附 Claude Code 製作 Skill。 (⭐ 3,749)
+  - [詳細說明](research-notes/patch-gg--pixelfx.md)
+- **[char-db-cn](https://github.com/sleepy-zone/char-db-cn)** - 用中文、日文與 Danbooru 標籤搜尋二次元髮型、服裝及姿勢，組合提示詞並匯出參考圖的離線介面。 (⭐ 340)
+  - [詳細說明](research-notes/sleepy-zone--char-db-cn.md)
 - **[claude-pxl](https://github.com/augusto-scarvalho/claude-pxl)** - 用程式描述像素藝術，並輸出 PNG、動畫與素材表的創作工具。 (⭐ 207)
   - [詳細說明](research-notes/augusto-scarvalho--claude-pxl.md)
 - **[mesh-avatar-studio](https://github.com/shinshin86/mesh-avatar-studio)** - 把單張插圖變成可用臉部或聲音驅動的 2D 網格角色。 (⭐ 1,287)
@@ -588,7 +594,7 @@
 
 ## 📊 統計數據
 
-- **Total Stars**: 227 repositories
+- **Total Stars**: 230 repositories
 - **Highest Stars**: awesome (506,592 ⭐)
 - **Main Categories**: AI/Agent (40%), Learning Resources (15%), Design & Visualization (15%), RAG & Knowledge (10%), Tools (20%)
 
@@ -600,4 +606,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-11-02
+**最後更新**：2026-11-03
