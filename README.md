@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-11-03
+**最後更新**：2026-11-06
 
 ---
 
@@ -86,6 +86,8 @@
   - [詳細說明](research-notes/microsoft--VibeVoice.md)
 
 ### Agent Skills
+- **[geo-sleuth](https://github.com/Oldcircle/geo-sleuth)** - 讓 Agent 結合開放地圖、地形、衛星與街景線索推查照片拍攝位置，附座標誤差範圍與證據圖。 (⭐ 6,185)
+  - [詳細說明](research-notes/Oldcircle--geo-sleuth.md)
 - **[Elephant-Goldfish Model](https://github.com/google/elephant-goldfish-model)** - 以深度專案脈絡起草規格，並交由全新脈絡 Agent 審查盲點的設計 Skills。 (⭐ 3,521)
   - [詳細說明](research-notes/google--elephant-goldfish-model.md)
 - **[Project Scaffold](https://github.com/kenming/project-scaffold-skill)** - 預覽並調整 Agent 規範與專案文件骨架，確認後才建立檔案。 (⭐ 14)
@@ -274,6 +276,8 @@
   - [詳細說明](research-notes/andyhuo520--aetherviz-master.md)
 
 ### 視覺內容
+- **[Shisei 姿勢](https://github.com/wquguru/shisei)** - 提供多角度人偶姿勢線稿與部分深度、法線參考圖，可作為 AI 繪圖姿勢與構圖輸入。 (⭐ 453)
+  - [詳細說明](research-notes/wquguru--shisei.md)
 - **[pixelfx](https://github.com/patch-gg/pixelfx)** - 提供 244 個以 JavaScript 程式繪製的像素特效與動作，可直接用於網頁遊戲或匯出 Sprite Sheet，並附 Claude Code 製作 Skill。 (⭐ 3,749)
   - [詳細說明](research-notes/patch-gg--pixelfx.md)
 - **[char-db-cn](https://github.com/sleepy-zone/char-db-cn)** - 用中文、日文與 Danbooru 標籤搜尋二次元髮型、服裝及姿勢，組合提示詞並匯出參考圖的離線介面。 (⭐ 340)
@@ -340,6 +344,8 @@
   - [詳細說明](research-notes/VectifyAI--OpenKB.md)
 
 ### 文檔處理
+- **[translate-book](https://github.com/deusyu/translate-book)** - 讓 Codex 等 Agent 將書籍分段並行翻譯、檢查與續跑，再合併輸出 HTML、DOCX、EPUB 和 PDF。 (⭐ 2,333)
+  - [詳細說明](research-notes/deusyu--translate-book.md)
 - **[MinerU](https://github.com/opendatalab/MinerU)** - 解析 PDF、掃描圖與 Office 文件，供 Agent 定位和讀取內容。 (⭐ 80,038)
   - [詳細說明](research-notes/opendatalab--MinerU.md)
 - **[Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** - 供開發者整合圖片與 PDF 文字辨識的 OCR 模型專案。 (⭐ 25,717)
@@ -533,6 +539,8 @@
 ## 🔧 其他實用工具
 
 ### 系統與應用
+- **[floorplan-3d](https://github.com/wy51ai/floorplan-3d)** - 在瀏覽器編排與測量 2D 戶型、家具和非承重牆，切換 3D 漫遊並匯出方案。 (⭐ 3,601)
+  - [詳細說明](research-notes/wy51ai--floorplan-3d.md)
 - **[Coreutils for Windows](https://github.com/microsoft/coreutils)** - 在 Windows 原生終端使用常見 Unix 指令，方便沿用 Linux、macOS 的腳本與操作習慣。 (⭐ 5,335)
   - [詳細說明](research-notes/microsoft--coreutils.md)
 - **[FoodKcalNotes](https://github.com/brian901106/FoodKcalNotes)** - 在本機記錄餐點，利用 AI 辨識食物與份量，並以可核對的資料計算熱量。 (⭐ 8)
@@ -594,7 +602,7 @@
 
 ## 📊 統計數據
 
-- **Total Stars**: 230 repositories
+- **Total Stars**: 234 repositories
 - **Highest Stars**: awesome (506,592 ⭐)
 - **Main Categories**: AI/Agent (40%), Learning Resources (15%), Design & Visualization (15%), RAG & Knowledge (10%), Tools (20%)
 
@@ -606,4 +614,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-11-03
+**最後更新**：2026-11-06
