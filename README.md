@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-11-06
+**最後更新**：2026-11-12
 
 ---
 
@@ -539,6 +539,8 @@
 ## 🔧 其他實用工具
 
 ### 系統與應用
+- **[Umless](https://github.com/jatinbishla/Umless)** - 在本機將按鍵口述轉成整理過的文字並輸入目前應用程式，支援 macOS、Windows 與 Linux。 (⭐ 36)
+  - [詳細說明](research-notes/jatinbishla--Umless.md)
 - **[floorplan-3d](https://github.com/wy51ai/floorplan-3d)** - 在瀏覽器編排與測量 2D 戶型、家具和非承重牆，切換 3D 漫遊並匯出方案。 (⭐ 3,601)
   - [詳細說明](research-notes/wy51ai--floorplan-3d.md)
 - **[Coreutils for Windows](https://github.com/microsoft/coreutils)** - 在 Windows 原生終端使用常見 Unix 指令，方便沿用 Linux、macOS 的腳本與操作習慣。 (⭐ 5,335)
@@ -602,7 +604,7 @@
 
 ## 📊 統計數據
 
-- **Total Stars**: 234 repositories
+- **Total Stars**: 235 repositories
 - **Highest Stars**: awesome (506,592 ⭐)
 - **Main Categories**: AI/Agent (40%), Learning Resources (15%), Design & Visualization (15%), RAG & Knowledge (10%), Tools (20%)
 
@@ -614,4 +616,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-11-06
+**最後更新**：2026-11-12
