@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-11-12
+**最後更新**：2026-11-13
 
 ---
 
@@ -86,6 +86,8 @@
   - [詳細說明](research-notes/microsoft--VibeVoice.md)
 
 ### Agent Skills
+- **[modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)** - 讓 Coding Agent 查找現代網頁 API、相容性、效能與無障礙的實作指引。 (⭐ 9,125)
+  - [詳細說明](research-notes/GoogleChrome--modern-web-guidance.md)
 - **[geo-sleuth](https://github.com/Oldcircle/geo-sleuth)** - 讓 Agent 結合開放地圖、地形、衛星與街景線索推查照片拍攝位置，附座標誤差範圍與證據圖。 (⭐ 6,185)
   - [詳細說明](research-notes/Oldcircle--geo-sleuth.md)
 - **[Elephant-Goldfish Model](https://github.com/google/elephant-goldfish-model)** - 以深度專案脈絡起草規格，並交由全新脈絡 Agent 審查盲點的設計 Skills。 (⭐ 3,521)
@@ -205,6 +207,8 @@
   - [詳細說明](research-notes/microsoft--ai-agents-for-beginners.md)
 
 ### 自我提升
+- **[English Vocabulary Vault](https://github.com/lilinji/English)** - 依考試、學習階段與領域整理英語詞表，可匯出到 Anki 等工具複習。 (⭐ 1,357)
+  - [詳細說明](research-notes/lilinji--English.md)
 - **[DeepTutor](https://github.com/HKUDS/DeepTutor)** - 可匯入個人資料、安排學習路徑、練習與對話的開源 AI 家教平台。 (⭐ 46,359)
   - [詳細說明](research-notes/HKUDS--DeepTutor.md)
 - **[詞光 Word Atlas](https://github.com/designfuchen/word-atlas)** - 以插畫、發音、語境與間隔複習學習雅思詞彙的本機優先網站。 (⭐ 2,715)
@@ -539,6 +543,8 @@
 ## 🔧 其他實用工具
 
 ### 系統與應用
+- **[OmniGet](https://github.com/OpenSelena/omniget)** - 在桌面下載課程與影音、管理佇列並處理已儲存媒體的跨平台工具。 (⭐ 5,950)
+  - [詳細說明](research-notes/OpenSelena--omniget.md)
 - **[Umless](https://github.com/jatinbishla/Umless)** - 在本機將按鍵口述轉成整理過的文字並輸入目前應用程式，支援 macOS、Windows 與 Linux。 (⭐ 36)
   - [詳細說明](research-notes/jatinbishla--Umless.md)
 - **[floorplan-3d](https://github.com/wy51ai/floorplan-3d)** - 在瀏覽器編排與測量 2D 戶型、家具和非承重牆，切換 3D 漫遊並匯出方案。 (⭐ 3,601)
@@ -604,7 +610,7 @@
 
 ## 📊 統計數據
 
-- **Total Stars**: 235 repositories
+- **Total Stars**: 238 repositories
 - **Highest Stars**: awesome (506,592 ⭐)
 - **Main Categories**: AI/Agent (40%), Learning Resources (15%), Design & Visualization (15%), RAG & Knowledge (10%), Tools (20%)
 
@@ -616,4 +622,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-11-12
+**最後更新**：2026-11-13
