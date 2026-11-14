@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-11-13
+**最後更新**：2026-11-14
 
 ---
 
@@ -70,6 +70,8 @@
   - [詳細說明](research-notes/aiming-lab--SimpleMem.md)
 
 ### 多模態
+- **[VLX-Flow](https://github.com/om-ai-lab/VLX-Flow)** - 展示串流影片理解、持續描述與事件提醒的模型能力及線上 API 範例。 (⭐ 373)
+  - [詳細說明](research-notes/om-ai-lab--VLX-Flow.md)
 - **[JoyAI-Image](https://github.com/jd-opensource/JoyAI-Image)** - 整合圖片理解、文字生圖與指令式修圖的多模態模型專案。 (⭐ 2,220)
   - [詳細說明](research-notes/jd-opensource--JoyAI-Image.md)
 - **[CosyVoice](https://github.com/QwenAudio/CosyVoice)** - 提供多語言語音生成與參考聲音複製的模型專案。 (⭐ 23,641)
@@ -86,6 +88,8 @@
   - [詳細說明](research-notes/microsoft--VibeVoice.md)
 
 ### Agent Skills
+- **[blender-skills](https://github.com/arjun988/blender-skills)** - 提供 Blender 建模、材質、燈光與匯出的專用 Agent Skills，需搭配 Blender MCP。 (⭐ 2,768)
+  - [詳細說明](research-notes/arjun988--blender-skills.md)
 - **[modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)** - 讓 Coding Agent 查找現代網頁 API、相容性、效能與無障礙的實作指引。 (⭐ 9,125)
   - [詳細說明](research-notes/GoogleChrome--modern-web-guidance.md)
 - **[geo-sleuth](https://github.com/Oldcircle/geo-sleuth)** - 讓 Agent 結合開放地圖、地形、衛星與街景線索推查照片拍攝位置，附座標誤差範圍與證據圖。 (⭐ 6,185)
@@ -280,6 +284,10 @@
   - [詳細說明](research-notes/andyhuo520--aetherviz-master.md)
 
 ### 視覺內容
+- **[mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)** - 透過 MCP 讓 AI 助理在 Blender 中建立與修改 3D 場景的社群整合工具。 (⭐ 34,332)
+  - [詳細說明](research-notes/ahujasid--mcp-for-blender.md)
+- **[M3E Canvas](https://github.com/lnkiai/m3e-canvas)** - 在瀏覽器草擬 Material 3 Expressive 畫面流程並複製給 Coding Agent 的提示詞。 (⭐ 10,340)
+  - [詳細說明](research-notes/lnkiai--m3e-canvas.md)
 - **[Shisei 姿勢](https://github.com/wquguru/shisei)** - 提供多角度人偶姿勢線稿與部分深度、法線參考圖，可作為 AI 繪圖姿勢與構圖輸入。 (⭐ 453)
   - [詳細說明](research-notes/wquguru--shisei.md)
 - **[pixelfx](https://github.com/patch-gg/pixelfx)** - 提供 244 個以 JavaScript 程式繪製的像素特效與動作，可直接用於網頁遊戲或匯出 Sprite Sheet，並附 Claude Code 製作 Skill。 (⭐ 3,749)
@@ -331,6 +339,8 @@
   - [詳細說明](research-notes/supermemoryai--supermemory.md)
 
 ### 知識庫管理
+- **[Hindsight](https://github.com/vectorize-io/hindsight)** - 為 Agent 提供可寫入、查回與整理的長期記憶服務及 SDK。 (⭐ 60,916)
+  - [詳細說明](research-notes/vectorize-io--hindsight.md)
 - **[史記知識庫](https://github.com/baojie/shiji-kb)** - 將《史記》人物、事件與地點標註並連成可跳轉、可搜尋的互動閱讀與知識圖譜。 (⭐ 3,469)
   - [詳細說明](research-notes/baojie--shiji-kb.md)
 - **[llm_wiki](https://github.com/nashsu/llm_wiki)** - 匯入文件並持續建立連結與知識圖譜的桌面知識庫。 (⭐ 19,632)
@@ -444,6 +454,12 @@
   - [詳細說明](research-notes/rictirse--TranslationGateway.md)
 
 ### 開源影片剪輯與 AI 剪片
+- **[Openjutsu](https://github.com/D3voz/openjutsu)** - 在本機以 ComfyUI 工作流程替換影片角色或物件，保留原片鏡頭與動作。 (⭐ 2,307)
+  - [詳細說明](research-notes/D3voz--openjutsu.md)
+- **[SFX Kit](https://github.com/wyzowl/sfx-kit)** - 提供附用途、同步點與音量資料的 320 個 CC0 音效，供影片及介面配音效。 (⭐ 37)
+  - [詳細說明](research-notes/wyzowl--sfx-kit.md)
+- **[earshot](https://github.com/Leonxlnx/earshot)** - 讓 Coding Agent 在本機分析、比對、檢查與合成影片音效的 CPU 工具。 (⭐ 4,764)
+  - [詳細說明](research-notes/Leonxlnx--earshot.md)
 - **[mv-director](https://github.com/Yari-tuber/mv-director)** - 讓 Codex 或 Claude Code 分析歌曲節拍與逐字歌詞，依分鏡用 Canvas 程式繪圖製作並驗收卡點音樂 MV。 (⭐ 24)
   - [詳細說明](research-notes/Yari-tuber--mv-director.md)
 - **[ReelMimic](https://github.com/edenfunf/reelmimic)** - 分析參考影片的節奏與畫風，再用 Codex 或 Claude Code 製作新的 2D 動畫。 (⭐ 239)
@@ -522,6 +538,8 @@
 
 ## 📖 資源合集
 
+- **[Openverse](https://github.com/WordPress/openverse)** - 搜尋開放授權圖片與音訊的網站及 API，使用素材前可核對個別授權。 (⭐ 628)
+  - [詳細說明](research-notes/WordPress--openverse.md)
 - **[awesome](https://github.com/sindresorhus/awesome)** - 各領域精選資源清單的總索引。 (⭐ 506,592)
   - [詳細說明](research-notes/sindresorhus--awesome.md)
 - **[HelloGitHub](https://github.com/521xueweihan/HelloGitHub)** - 以中文定期介紹有趣、易上手開源專案的內容集合。 (⭐ 176,872)
@@ -543,6 +561,12 @@
 ## 🔧 其他實用工具
 
 ### 系統與應用
+- **[RuView](https://github.com/ruvnet/RuView)** - 以 WiFi CSI 與感測節點研究空間有人、活動及生命徵象，功能仍在 beta。 (⭐ 104,242)
+  - [詳細說明](research-notes/ruvnet--RuView.md)
+- **[Horizon](https://github.com/horizon-rust/horizon)** - 以 Rust 重寫、使用正版 Minecraft Java Edition 帳號遊玩的非官方遊戲與啟動器。 (⭐ 9,383)
+  - [詳細說明](research-notes/horizon-rust--horizon.md)
+- **[Estella](https://github.com/esengine/estella)** - 結合 TypeScript、視覺編輯器與 WebAssembly 的跨平台 2D／3D 遊戲引擎。 (⭐ 826)
+  - [詳細說明](research-notes/esengine--estella.md)
 - **[OmniGet](https://github.com/OpenSelena/omniget)** - 在桌面下載課程與影音、管理佇列並處理已儲存媒體的跨平台工具。 (⭐ 5,950)
   - [詳細說明](research-notes/OpenSelena--omniget.md)
 - **[Umless](https://github.com/jatinbishla/Umless)** - 在本機將按鍵口述轉成整理過的文字並輸入目前應用程式，支援 macOS、Windows 與 Linux。 (⭐ 36)
@@ -610,7 +634,7 @@
 
 ## 📊 統計數據
 
-- **Total Stars**: 238 repositories
+- **Total Stars**: 250 repositories
 - **Highest Stars**: awesome (506,592 ⭐)
 - **Main Categories**: AI/Agent (40%), Learning Resources (15%), Design & Visualization (15%), RAG & Knowledge (10%), Tools (20%)
 
@@ -622,4 +646,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-11-13
+**最後更新**：2026-11-14
