@@ -2,7 +2,7 @@
 
 個人精選 GitHub Stars，按分類整理。涵蓋 AI Agent、LLM、數據可視化、知識管理、開發工具等多個領域。
 
-**最後更新**：2026-11-14
+**最後更新**：2026-11-17
 
 ---
 
@@ -211,6 +211,8 @@
   - [詳細說明](research-notes/microsoft--ai-agents-for-beginners.md)
 
 ### 自我提升
+- **[BiliPicks](https://github.com/limin112/bilipicks)** - 由家長自選 B 站影片並安排闖關學習路線，避免滑到推薦清單外的影片。 (⭐ 148)
+  - [詳細說明](research-notes/limin112--bilipicks.md)
 - **[English Vocabulary Vault](https://github.com/lilinji/English)** - 依考試、學習階段與領域整理英語詞表，可匯出到 Anki 等工具複習。 (⭐ 1,357)
   - [詳細說明](research-notes/lilinji--English.md)
 - **[DeepTutor](https://github.com/HKUDS/DeepTutor)** - 可匯入個人資料、安排學習路徑、練習與對話的開源 AI 家教平台。 (⭐ 46,359)
@@ -394,6 +396,8 @@
 ## 💻 開發工具與效率
 
 ### 代碼審查與質量
+- **[Codex Security](https://github.com/openai/codex-security)** - 掃描程式庫安全弱點、驗證發現並產生修補建議的 CLI、SDK 與 Codex 工作流程。 (⭐ 13,856)
+  - [詳細說明](research-notes/openai--codex-security.md)
 - **[open-code-review](https://github.com/alibaba/open-code-review)** - 結合規則選檔與 LLM 判斷的本機程式碼審查工具。 (⭐ 30,647)
   - [詳細說明](research-notes/alibaba--open-code-review.md)
 - **[spec-kit](https://github.com/github/spec-kit)** - 為 Coding Agent 提供規格範本與決策紀錄的開發工具組。 (⭐ 137,255)
@@ -634,7 +638,7 @@
 
 ## 📊 統計數據
 
-- **Total Stars**: 250 repositories
+- **Total Stars**: 252 repositories
 - **Highest Stars**: awesome (506,592 ⭐)
 - **Main Categories**: AI/Agent (40%), Learning Resources (15%), Design & Visualization (15%), RAG & Knowledge (10%), Tools (20%)
 
@@ -646,4 +650,4 @@
 
 如需更新或有建議，歡迎提 Issue 或 PR！
 
-**最後更新**：2026-11-14
+**最後更新**：2026-11-17
