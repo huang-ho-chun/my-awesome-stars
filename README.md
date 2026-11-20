@@ -88,6 +88,8 @@
   - [詳細說明](research-notes/microsoft--VibeVoice.md)
 
 ### Agent Skills
+- **[sakurai-skill](https://github.com/kociden/sakurai-skill)** - 將櫻井政博遊戲製作影片字幕整理成可供 Agent 規劃與檢視遊戲體驗的日文 Skill。 (⭐ 481)
+  - [詳細說明](research-notes/kociden--sakurai-skill.md)
 - **[blender-skills](https://github.com/arjun988/blender-skills)** - 提供 Blender 建模、材質、燈光與匯出的專用 Agent Skills，需搭配 Blender MCP。 (⭐ 2,768)
   - [詳細說明](research-notes/arjun988--blender-skills.md)
 - **[modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)** - 讓 Coding Agent 查找現代網頁 API、相容性、效能與無障礙的實作指引。 (⭐ 9,125)
@@ -458,6 +460,8 @@
   - [詳細說明](research-notes/rictirse--TranslationGateway.md)
 
 ### 開源影片剪輯與 AI 剪片
+- **[Phasyn Studio](https://github.com/phasyn/phasyn-studio)** - 在自己的 NVIDIA GPU 上生成含聲音的短片與圖片，並以時間軸組合、剪輯及輸出影片。 (⭐ 97)
+  - [詳細說明](research-notes/phasyn--phasyn-studio.md)
 - **[Openjutsu](https://github.com/D3voz/openjutsu)** - 在本機以 ComfyUI 工作流程替換影片角色或物件，保留原片鏡頭與動作。 (⭐ 2,307)
   - [詳細說明](research-notes/D3voz--openjutsu.md)
 - **[SFX Kit](https://github.com/wyzowl/sfx-kit)** - 提供附用途、同步點與音量資料的 320 個 CC0 音效，供影片及介面配音效。 (⭐ 37)
@@ -565,6 +569,8 @@
 ## 🔧 其他實用工具
 
 ### 系統與應用
+- **[Pokémon Heartfelt Gold](https://github.com/Trinsic64/Heartfelt-Gold)** - 為《Pokémon HeartGold》重新設計地圖、遭遇與訓練家配置的非官方 ROM patch。 (⭐ 157)
+  - [詳細說明](research-notes/Trinsic64--Heartfelt-Gold.md)
 - **[RuView](https://github.com/ruvnet/RuView)** - 以 WiFi CSI 與感測節點研究空間有人、活動及生命徵象，功能仍在 beta。 (⭐ 104,242)
   - [詳細說明](research-notes/ruvnet--RuView.md)
 - **[Horizon](https://github.com/horizon-rust/horizon)** - 以 Rust 重寫、使用正版 Minecraft Java Edition 帳號遊玩的非官方遊戲與啟動器。 (⭐ 9,383)
